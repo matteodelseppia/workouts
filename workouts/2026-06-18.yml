@@ -27,6 +27,7 @@ exercises:
         load_kg: 12.5
 
   - name: Full Front Lever Raise
+    notes: From dead hang to 90-120 deg. Some momentum when fatigued. Eccentric not controlled.
     sets:
       - reps: 4
       - reps: 4
