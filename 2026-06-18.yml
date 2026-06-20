@@ -1,0 +1,43 @@
+date: 2026-06-18
+
+exercises:
+  - name: Weighted Chin Up
+    sets:
+      - reps: 6
+        load_kg: 17
+      - reps: 6
+        load_kg: 17
+
+  - name: Weighted Pull Up
+    sets:
+      - reps: 6
+        load_kg: 15
+      - reps: 6
+        load_kg: 15
+      - reps: 7
+        load_kg: 12.5
+
+  - name: Weighted Ring Dip
+    sets:
+      - reps: 8
+        load_kg: 12.5
+      - reps: 8
+        load_kg: 12.5
+      - reps: 8
+        load_kg: 12.5
+
+  - name: Full Front Lever Raise
+    sets:
+      - reps: 4
+      - reps: 4
+      - reps: 4
+      - reps: 4
+
+  - name: Weighted Dip
+    sets:
+      - reps: 8
+        load_kg: 25
+      - reps: 9
+        load_kg: 25
+      - reps: 10
+        load_kg: 25
