@@ -1,0 +1,53 @@
+date: 2026-06-21
+
+exercises:
+  - name: L Sit Pull Up
+    sets:
+      - reps: 7
+
+  - name: L Sit Chin Up
+    sets:
+      - reps: 7
+
+  - name: Weighted Pull Up
+    sets:
+      - reps: 3
+        load_kg: 25
+      - reps: 3
+        load_kg: 25
+      - reps: 3
+        load_kg: 25
+      - reps: 3
+        load_kg: 25
+      - reps: 3
+        load_kg: 25
+
+  - name: Weighted Pull Up
+    sets:
+      - reps: 1
+        load_kg: 30
+      - reps: 1
+        load_kg: 30
+      - reps: 1
+        load_kg: 30
+
+  - name: Weighted Dip
+    sets:
+      - reps: 8
+        load_kg: 30
+      - reps: 9
+        load_kg: 30
+      - reps: 9
+        load_kg: 30
+
+  - name: Tuck Front Lever Raises
+    sets:
+      - reps: 8
+      - reps: 8
+      - reps: 8
+
+  - name: Archer Push Up
+    sets:
+      - reps: 10
+      - reps: 11
+      - reps: 10
