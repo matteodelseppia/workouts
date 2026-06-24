@@ -1,0 +1,36 @@
+date: 2026-06-24
+
+exercises:
+  - name: Weighted Pull Up
+    notes: Super clean reps, chin very clearly over the bar.
+    sets:
+      - reps: 3
+        load_kg: 25
+      - reps: 3
+        load_kg: 25
+      - reps: 3
+        load_kg: 25
+      - reps: 3
+        load_kg: 25
+      - reps: 3
+        load_kg: 25
+
+  - name: Weighted Pull Up
+    notes: Clean reps, chin to bar. More suffered than previous exercise.
+    sets:
+      - reps: 2
+        load_kg: 30
+      - reps: 2
+        load_kg: 30
+      - reps: 2
+        load_kg: 30
+
+  - name: Weighted Pull Up
+    notes: Reps dirtier as load increases.
+    sets:
+      - reps: 1
+        load_kg: 32.5
+      - reps: 1
+        load_kg: 35
+      - reps: 1
+        load_kg: 37
