@@ -1,0 +1,35 @@
+date: 2026-06-25
+
+exercises:
+  - name: Weighted Dip
+    notes: Primary push strength work. Build on 3x8-9@30kg from Jun 21.
+    sets:
+      - reps: 6
+        load_kg: 35
+      - reps: 6
+        load_kg: 35
+      - reps: 6
+        load_kg: 35
+
+  - name: Weighted Ring Dip
+    notes: Stability and volume.
+    sets:
+      - reps: 8
+        load_kg: 12.5
+      - reps: 7
+        load_kg: 15
+      - reps: 7
+        load_kg: 15
+
+  - name: Tuck Front Lever Raise
+    notes: Skill/accessory. Tuck variant to keep quality high after push fatigue.
+    sets:
+      - reps: 8
+      - reps: 8
+      - reps: 8
+
+  - name: Bar Tricep Extensions
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
