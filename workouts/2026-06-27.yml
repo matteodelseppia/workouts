@@ -1,0 +1,42 @@
+date: 2026-06-27
+
+exercises:
+  - name: Weighted Pull Up
+    notes: Clean reps. Third rep a bit suffered.
+    sets:
+      - reps: 3
+        load_kg: 27
+      - reps: 3
+        load_kg: 27
+      - reps: 3
+        load_kg: 27
+      - reps: 3
+        load_kg: 27
+      - reps: 3
+        load_kg: 27
+
+  - name: Weighted Pull Up
+    notes: Clean reps.
+    sets:
+      - reps: 1
+        load_kg: 32
+      - reps: 1
+        load_kg: 32
+      - reps: 1
+        load_kg: 30
+
+  - name: Weighted Pull Up
+    notes: More volume.
+    sets:
+      - reps: 8
+        load_kg: 10
+
+  - name: Australian Pull Up
+    notes: Focus on squeeze for 1-2s.
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
+    
