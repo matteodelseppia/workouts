@@ -3,25 +3,25 @@ date: 2026-07-25
 
 exercises:
   - name: Weighted Pull Up
-    notes: "Volume day. 2 reps in reserve each set."
+    notes: "Volume day. 2 reps in reserve each set. Reps trimmed to 5 for the block."
     sets:
-      - reps: 6
+      - reps: 5
         load_kg: 22
-      - reps: 6
+      - reps: 5
         load_kg: 22
-      - reps: 6
+      - reps: 5
         load_kg: 22
-      - reps: 6
+      - reps: 5
         load_kg: 22
 
   - name: Weighted Chin Up
-    notes: "Supinated volume."
+    notes: "Supinated volume. Reps trimmed to 5 for the block."
     sets:
-      - reps: 6
+      - reps: 5
         load_kg: 18
-      - reps: 6
+      - reps: 5
         load_kg: 18
-      - reps: 6
+      - reps: 5
         load_kg: 18
 
   - name: Tuck Front Lever Raise

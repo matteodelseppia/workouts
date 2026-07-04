@@ -1,0 +1,255 @@
+$ git diff origin/main..HEAD > /tmp/claude-comp-program-difficulty.patch && cat /tmp/claude-comp-program-difficulty.patch
+
+diff --git a/program/2026-07/2026-07-07.yml b/program/2026-07/2026-07-07.yml
+index 4410648..a356900 100644
+--- a/program/2026-07/2026-07-07.yml
++++ b/program/2026-07/2026-07-07.yml
+@@ -25,11 +25,11 @@ exercises:
+         load_kg: 31
+ 
+   - name: Weighted Pull Up
+-    notes: "Back-off volume. Stop 2 reps shy of failure."
++    notes: "Back-off volume. Stop 2 reps shy of failure. Reps trimmed to 5 for the block."
+     sets:
+-      - reps: 6
++      - reps: 5
+         load_kg: 20
+-      - reps: 6
++      - reps: 5
+         load_kg: 20
+ 
+   - name: Australian Pull Up
+diff --git a/program/2026-07/2026-07-11.yml b/program/2026-07/2026-07-11.yml
+index 36322d9..77712e4 100644
+--- a/program/2026-07/2026-07-11.yml
++++ b/program/2026-07/2026-07-11.yml
+@@ -3,25 +3,25 @@ date: 2026-07-11
+ 
+ exercises:
+   - name: Weighted Pull Up
+-    notes: "Volume day. 2 reps in reserve each set."
++    notes: "Volume day. 2 reps in reserve each set. Reps trimmed from 6 to 5 after Jul 4 baseline hit RIR 0 at this load."
+     sets:
+-      - reps: 6
++      - reps: 5
+         load_kg: 20
+-      - reps: 6
++      - reps: 5
+         load_kg: 20
+-      - reps: 6
++      - reps: 5
+         load_kg: 20
+-      - reps: 6
++      - reps: 5
+         load_kg: 20
+ 
+   - name: Weighted Chin Up
+-    notes: "Supinated volume."
++    notes: "Supinated volume. Reps trimmed from 6 to 5, same reason."
+     sets:
+-      - reps: 6
++      - reps: 5
+         load_kg: 16
+-      - reps: 6
++      - reps: 5
+         load_kg: 16
+-      - reps: 6
++      - reps: 5
+         load_kg: 16
+ 
+   - name: Tuck Front Lever Raise
+diff --git a/program/2026-07/2026-07-14.yml b/program/2026-07/2026-07-14.yml
+index 27d5c73..ab4e43d 100644
+--- a/program/2026-07/2026-07-14.yml
++++ b/program/2026-07/2026-07-14.yml
+@@ -25,11 +25,11 @@ exercises:
+         load_kg: 32
+ 
+   - name: Weighted Pull Up
+-    notes: "Back-off volume. Stop 2 reps shy of failure."
++    notes: "Back-off volume. Stop 2 reps shy of failure. Reps trimmed to 5 for the block."
+     sets:
+-      - reps: 6
++      - reps: 5
+         load_kg: 20
+-      - reps: 6
++      - reps: 5
+         load_kg: 20
+ 
+   - name: Australian Pull Up
+diff --git a/program/2026-07/2026-07-18.yml b/program/2026-07/2026-07-18.yml
+index c711d72..8cf9276 100644
+--- a/program/2026-07/2026-07-18.yml
++++ b/program/2026-07/2026-07-18.yml
+@@ -3,25 +3,25 @@ date: 2026-07-18
+ 
+ exercises:
+   - name: Weighted Pull Up
+-    notes: "Volume day. 2 reps in reserve each set."
++    notes: "Volume day. 2 reps in reserve each set. Reps trimmed to 5 for the block."
+     sets:
+-      - reps: 6
++      - reps: 5
+         load_kg: 21
+-      - reps: 6
++      - reps: 5
+         load_kg: 21
+-      - reps: 6
++      - reps: 5
+         load_kg: 21
+-      - reps: 6
++      - reps: 5
+         load_kg: 21
+ 
+   - name: Weighted Chin Up
+-    notes: "Supinated volume."
++    notes: "Supinated volume. Reps trimmed to 5 for the block."
+     sets:
+-      - reps: 6
++      - reps: 5
+         load_kg: 17
+-      - reps: 6
++      - reps: 5
+         load_kg: 17
+-      - reps: 6
++      - reps: 5
+         load_kg: 17
+ 
+   - name: Tuck Front Lever Raise
+diff --git a/program/2026-07/2026-07-21.yml b/program/2026-07/2026-07-21.yml
+index 6407aec..a77528d 100644
+--- a/program/2026-07/2026-07-21.yml
++++ b/program/2026-07/2026-07-21.yml
+@@ -21,11 +21,11 @@ exercises:
+         load_kg: 33
+ 
+   - name: Weighted Pull Up
+-    notes: "Back-off volume. Stop 2 reps shy of failure."
++    notes: "Back-off volume. Stop 2 reps shy of failure. Reps trimmed to 5 for the block."
+     sets:
+-      - reps: 6
++      - reps: 5
+         load_kg: 20
+-      - reps: 6
++      - reps: 5
+         load_kg: 20
+ 
+   - name: Australian Pull Up
+diff --git a/program/2026-07/2026-07-25.yml b/program/2026-07/2026-07-25.yml
+index 37931ef..1e97f2d 100644
+--- a/program/2026-07/2026-07-25.yml
++++ b/program/2026-07/2026-07-25.yml
+@@ -3,25 +3,25 @@ date: 2026-07-25
+ 
+ exercises:
+   - name: Weighted Pull Up
+-    notes: "Volume day. 2 reps in reserve each set."
++    notes: "Volume day. 2 reps in reserve each set. Reps trimmed to 5 for the block."
+     sets:
+-      - reps: 6
++      - reps: 5
+         load_kg: 22
+-      - reps: 6
++      - reps: 5
+         load_kg: 22
+-      - reps: 6
++      - reps: 5
+         load_kg: 22
+-      - reps: 6
++      - reps: 5
+         load_kg: 22
+ 
+   - name: Weighted Chin Up
+-    notes: "Supinated volume."
++    notes: "Supinated volume. Reps trimmed to 5 for the block."
+     sets:
+-      - reps: 6
++      - reps: 5
+         load_kg: 18
+-      - reps: 6
++      - reps: 5
+         load_kg: 18
+-      - reps: 6
++      - reps: 5
+         load_kg: 18
+ 
+   - name: Tuck Front Lever Raise
+diff --git a/program/2026-07/2026-07-28.yml b/program/2026-07/2026-07-28.yml
+index c98d47c..526cf31 100644
+--- a/program/2026-07/2026-07-28.yml
++++ b/program/2026-07/2026-07-28.yml
+@@ -15,11 +15,11 @@ exercises:
+         load_kg: 31
+ 
+   - name: Weighted Pull Up
+-    notes: "Back-off volume. Stop 2 reps shy of failure."
++    notes: "Back-off volume. Stop 2 reps shy of failure. Reps trimmed to 5 for the block."
+     sets:
+-      - reps: 6
++      - reps: 5
+         load_kg: 20
+-      - reps: 6
++      - reps: 5
+         load_kg: 20
+ 
+   - name: Australian Pull Up
+diff --git a/program/2026-08/2026-08-01.yml b/program/2026-08/2026-08-01.yml
+index 05099bc..d432dfc 100644
+--- a/program/2026-08/2026-08-01.yml
++++ b/program/2026-08/2026-08-01.yml
+@@ -3,25 +3,25 @@ date: 2026-08-01
+ 
+ exercises:
+   - name: Weighted Pull Up
+-    notes: "Volume day. 2 reps in reserve each set."
++    notes: "Volume day. 2 reps in reserve each set. Reps trimmed to 5 for the block."
+     sets:
+-      - reps: 6
++      - reps: 5
+         load_kg: 24
+-      - reps: 6
++      - reps: 5
+         load_kg: 24
+-      - reps: 6
++      - reps: 5
+         load_kg: 24
+-      - reps: 6
++      - reps: 5
+         load_kg: 24
+ 
+   - name: Weighted Chin Up
+-    notes: "Supinated volume."
++    notes: "Supinated volume. Reps trimmed to 5 for the block."
+     sets:
+-      - reps: 6
++      - reps: 5
+         load_kg: 20
+-      - reps: 6
++      - reps: 5
+         load_kg: 20
+-      - reps: 6
++      - reps: 5
+         load_kg: 20
+ 
+   - name: Tuck Front Lever Raise
+diff --git a/program/README.md b/program/README.md
+index 73ff2f6..73f0104 100644
+--- a/program/README.md
++++ b/program/README.md
+@@ -21,3 +21,6 @@
+ - Heavy days: rest 3–4 min between top sets. No grinding — a failed rep costs more than a skipped set.
+ - If a session's prescribed load feels >RPE 9, drop 1–2 kg and log what you did.
+ - Loads are prescriptions, not contracts: repeat a week rather than push through bad sessions.
++
++## Adjustments
++- **Jul 4:** Week 0 volume-pull baseline (poor sleep) hit RIR 0 instead of the prescribed 2 on both Weighted Pull Up and Weighted Chin Up at the starting load. Trimmed those volume sets from 6 to 5 reps for the rest of the accumulation block (Jul 7 – Aug 1) — Tuesday back-off sets and Saturday volume day alike — keeping the load ramp unchanged so the pulling side keeps real reps in reserve.
+diff --git a/workouts/2026-07/2026-07-04.yml b/workouts/2026-07/2026-07-04.yml
+index 44ba89c..3126b34 100644
+--- a/workouts/2026-07/2026-07-04.yml
++++ b/workouts/2026-07/2026-07-04.yml
+@@ -1,4 +1,5 @@
+ date: 2026-07-04
++notes: "Poor sleep night before. Prescribed 2 RIR on Pull Up/Chin Up but hit 0 RIR at baseline load - see program adjustment below."
+ 
+ exercises:
+   - name: Weighted Pull Up

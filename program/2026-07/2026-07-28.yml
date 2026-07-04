@@ -15,11 +15,11 @@ exercises:
         load_kg: 31
 
   - name: Weighted Pull Up
-    notes: "Back-off volume. Stop 2 reps shy of failure."
+    notes: "Back-off volume. Stop 2 reps shy of failure. Reps trimmed to 5 for the block."
     sets:
-      - reps: 6
+      - reps: 5
         load_kg: 20
-      - reps: 6
+      - reps: 5
         load_kg: 20
 
   - name: Australian Pull Up

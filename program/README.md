@@ -21,3 +21,6 @@
 - Heavy days: rest 3–4 min between top sets. No grinding — a failed rep costs more than a skipped set.
 - If a session's prescribed load feels >RPE 9, drop 1–2 kg and log what you did.
 - Loads are prescriptions, not contracts: repeat a week rather than push through bad sessions.
+
+## Adjustments
+- **Jul 4:** Week 0 volume-pull baseline (poor sleep) hit RIR 0 instead of the prescribed 2 on both Weighted Pull Up and Weighted Chin Up at the starting load. Trimmed those volume sets from 6 to 5 reps for the rest of the accumulation block (Jul 7 – Aug 1) — Tuesday back-off sets and Saturday volume day alike — keeping the load ramp unchanged so the pulling side keeps real reps in reserve.
