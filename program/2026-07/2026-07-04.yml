@@ -1,0 +1,39 @@
+# WEEK 0 - DAY 1 (Sat) - VOLUME PULL
+date: 2026-07-04
+
+exercises:
+  - name: Weighted Pull Up
+    notes: "Volume day. 2 reps in reserve each set."
+    sets:
+      - reps: 6
+        load_kg: 20
+      - reps: 6
+        load_kg: 20
+      - reps: 6
+        load_kg: 20
+      - reps: 6
+        load_kg: 20
+
+  - name: Weighted Chin Up
+    notes: "Supinated volume."
+    sets:
+      - reps: 6
+        load_kg: 16
+      - reps: 6
+        load_kg: 16
+      - reps: 6
+        load_kg: 16
+
+  - name: Tuck Front Lever Raise
+    notes: "Skill work. Controlled eccentric."
+    sets:
+      - reps: 8
+      - reps: 8
+      - reps: 8
+
+  - name: Ring Face Pull
+    notes: "12-15 reps. Shoulder health."
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
