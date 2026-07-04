@@ -3,6 +3,7 @@ date: 2026-07-02
 exercises:
   - name: Weighted Dip
     notes: Primary push strength work.
+    rir: 0-1
     sets:
       - reps: 6
         load_kg: 38
@@ -15,6 +16,7 @@ exercises:
 
   - name: Weighted Ring Dip
     notes: Stability and volume.
+    rir: 0-1
     sets:
       - reps: 6
         load_kg: 12.5
@@ -25,6 +27,7 @@ exercises:
 
   - name: Tuck Front Lever Raise
     notes: Skill/accessory. Tuck variant to keep quality high after push fatigue.
+    rir: 0
     sets:
       - reps: 9
       - reps: 9
