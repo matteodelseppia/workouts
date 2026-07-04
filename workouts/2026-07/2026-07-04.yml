@@ -1,0 +1,44 @@
+date: 2026-07-04
+
+exercises:
+  - name: Weighted Pull Up
+    notes: "Volume day"
+    rir: 0
+    sets:
+      - reps: 6
+        load_kg: 20
+      - reps: 6
+        load_kg: 20
+      - reps: 6
+        load_kg: 20
+      - reps: 6
+        load_kg: 20
+
+  - name: Weighted Chin Up
+    notes: "Supinated volume"
+    rir: 0
+    sets:
+      - reps: 6
+        load_kg: 16
+      - reps: 6
+        load_kg: 16
+      - reps: 6
+        load_kg: 16
+
+  - name: Australian Pull Up
+    notes: "Horizontal pulling volume."
+    rir: 0-1
+    sets:
+      - reps: 8
+      - reps: 8
+      - reps: 8
+      - reps: 8
+
+  - name: Ring Bicep Curl
+    notes: "Bicep isolation volume"
+    rir: 0-1
+    sets:
+      - reps: 6
+      - reps: 6
+      - reps: 6
+      - reps: 6
