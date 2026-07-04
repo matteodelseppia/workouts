@@ -1,0 +1,27 @@
+# WEEK 8 - DAY 2 (Thu) - HEAVY DIP - TAPER
+date: 2026-08-27
+
+exercises:
+  - name: Weighted Dip
+    notes: "TAPER. Fast doubles at 50, two crisp singles at 56. Nothing to failure."
+    sets:
+      - reps: 2
+        load_kg: 50
+      - reps: 2
+        load_kg: 50
+
+  - name: Weighted Dip
+    notes: "Heavy single(s). Full lockout, controlled bottom."
+    sets:
+      - reps: 1
+        load_kg: 56
+      - reps: 1
+        load_kg: 56
+
+  - name: Weighted Pull Up
+    notes: "Taper primer: two crisp singles at goal weight."
+    sets:
+      - reps: 1
+        load_kg: 32
+      - reps: 1
+        load_kg: 32

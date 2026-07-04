@@ -1,0 +1,36 @@
+# WEEK 7 - DAY 2 (Thu) - HEAVY DIP
+date: 2026-08-20
+
+exercises:
+  - name: Weighted Dip
+    notes: "Heaviest week. 3x3@54, one single at 58. Abort single if triples grind."
+    sets:
+      - reps: 3
+        load_kg: 54
+      - reps: 3
+        load_kg: 54
+      - reps: 3
+        load_kg: 54
+
+  - name: Weighted Dip
+    notes: "Heavy single(s). Full lockout, controlled bottom."
+    sets:
+      - reps: 1
+        load_kg: 58
+
+  - name: Weighted Ring Dip
+    notes: "Stability back-off."
+    sets:
+      - reps: 6
+        load_kg: 15
+      - reps: 6
+        load_kg: 15
+      - reps: 6
+        load_kg: 15
+
+  - name: Bar Tricep Extensions
+    notes: "10-12 reps per set."
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure

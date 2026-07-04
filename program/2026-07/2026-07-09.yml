@@ -1,0 +1,34 @@
+# WEEK 1 - DAY 2 (Thu) - HEAVY DIP
+date: 2026-07-09
+
+exercises:
+  - name: Weighted Dip
+    notes: "First exposure above 38. 5s should have 2 reps in reserve."
+    sets:
+      - reps: 5
+        load_kg: 40
+      - reps: 5
+        load_kg: 40
+      - reps: 5
+        load_kg: 40
+      - reps: 5
+        load_kg: 40
+      - reps: 5
+        load_kg: 40
+
+  - name: Weighted Ring Dip
+    notes: "Stability back-off."
+    sets:
+      - reps: 6
+        load_kg: 15
+      - reps: 6
+        load_kg: 15
+      - reps: 6
+        load_kg: 15
+
+  - name: Bar Tricep Extensions
+    notes: "10-12 reps per set."
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure

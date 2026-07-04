@@ -1,0 +1,37 @@
+# WEEK 3 - DAY 1 (Tue) - HEAVY PULL
+date: 2026-07-21
+
+exercises:
+  - name: Weighted Pull Up
+    notes: "First triples at 30. Rest 3-4 min between sets."
+    sets:
+      - reps: 3
+        load_kg: 30
+      - reps: 3
+        load_kg: 30
+      - reps: 3
+        load_kg: 30
+      - reps: 3
+        load_kg: 30
+
+  - name: Weighted Pull Up
+    notes: "Heavy singles. Clean, no kipping."
+    sets:
+      - reps: 1
+        load_kg: 33
+
+  - name: Weighted Pull Up
+    notes: "Back-off volume. Stop 2 reps shy of failure."
+    sets:
+      - reps: 6
+        load_kg: 20
+      - reps: 6
+        load_kg: 20
+
+  - name: Australian Pull Up
+    notes: "Squeeze 1-2s at top."
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure

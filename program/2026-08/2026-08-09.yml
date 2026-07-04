@@ -1,0 +1,37 @@
+# WEEK 5 - DAY 4 (Sun) - VOLUME PUSH - DELOAD
+date: 2026-08-09
+
+exercises:
+  - name: Weighted Dip
+    notes: "Volume day. Stop 2 reps shy of failure."
+    sets:
+      - reps: 6
+        load_kg: 28
+      - reps: 6
+        load_kg: 28
+      - reps: 6
+        load_kg: 28
+
+  - name: Weighted Ring Dip
+    notes: "Stability and volume."
+    sets:
+      - reps: 8
+        load_kg: 12.5
+      - reps: 8
+        load_kg: 12.5
+      - reps: 8
+        load_kg: 12.5
+
+  - name: Archer Push Up
+    notes: "Accessory."
+    sets:
+      - reps: 10 each side
+      - reps: 10 each side
+      - reps: 10 each side
+
+  - name: Bar Tricep Extensions
+    notes: "10-12 reps per set."
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure

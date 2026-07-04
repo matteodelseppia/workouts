@@ -1,0 +1,20 @@
+# WEEK 5 - DAY 2 (Thu) - HEAVY DIP - DELOAD
+date: 2026-08-06
+
+exercises:
+  - name: Weighted Dip
+    notes: "DELOAD. Easy weight, perfect technique."
+    sets:
+      - reps: 4
+        load_kg: 40
+      - reps: 4
+        load_kg: 40
+      - reps: 4
+        load_kg: 40
+
+  - name: Ring Face Pull
+    notes: "Shoulder health."
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure

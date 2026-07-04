@@ -1,0 +1,37 @@
+# WEEK 7 - DAY 1 (Tue) - HEAVY PULL
+date: 2026-08-18
+
+exercises:
+  - name: Weighted Pull Up
+    notes: "Heavy doubles at 33, back-off triples at 30."
+    sets:
+      - reps: 2
+        load_kg: 33
+      - reps: 2
+        load_kg: 33
+      - reps: 2
+        load_kg: 33
+
+  - name: Weighted Pull Up
+    notes: "Back-off triples. Clean, no kipping."
+    sets:
+      - reps: 3
+        load_kg: 30
+      - reps: 3
+        load_kg: 30
+
+  - name: Weighted Pull Up
+    notes: "Back-off volume. Stop 2 reps shy of failure."
+    sets:
+      - reps: 6
+        load_kg: 20
+      - reps: 6
+        load_kg: 20
+
+  - name: Australian Pull Up
+    notes: "Squeeze 1-2s at top."
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure

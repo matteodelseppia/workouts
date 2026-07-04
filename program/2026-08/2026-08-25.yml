@@ -1,0 +1,27 @@
+# WEEK 8 - DAY 1 (Tue) - HEAVY PULL - TAPER
+date: 2026-08-25
+
+exercises:
+  - name: Weighted Pull Up
+    notes: "TAPER. Short and sharp: doubles at 30, confident singles at 32. Done in 30 min."
+    sets:
+      - reps: 2
+        load_kg: 30
+      - reps: 2
+        load_kg: 30
+
+  - name: Weighted Pull Up
+    notes: "Heavy singles. Clean, no kipping."
+    sets:
+      - reps: 1
+        load_kg: 32
+      - reps: 1
+        load_kg: 32
+
+  - name: Weighted Dip
+    notes: "Taper primer: fast, explosive doubles."
+    sets:
+      - reps: 2
+        load_kg: 50
+      - reps: 2
+        load_kg: 50

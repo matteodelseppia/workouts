@@ -1,0 +1,20 @@
+# WEEK 5 - DAY 1 (Tue) - HEAVY PULL - DELOAD
+date: 2026-08-04
+
+exercises:
+  - name: Weighted Pull Up
+    notes: "DELOAD. Easy, crisp reps. Leave the gym fresh."
+    sets:
+      - reps: 3
+        load_kg: 27
+      - reps: 3
+        load_kg: 27
+      - reps: 3
+        load_kg: 27
+
+  - name: Australian Pull Up
+    notes: "Easy pump work only."
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure

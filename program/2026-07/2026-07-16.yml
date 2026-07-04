@@ -1,0 +1,32 @@
+# WEEK 2 - DAY 2 (Thu) - HEAVY DIP
+date: 2026-07-16
+
+exercises:
+  - name: Weighted Dip
+    notes: "Full depth, controlled descent."
+    sets:
+      - reps: 5
+        load_kg: 42
+      - reps: 5
+        load_kg: 42
+      - reps: 5
+        load_kg: 42
+      - reps: 5
+        load_kg: 42
+
+  - name: Weighted Ring Dip
+    notes: "Stability back-off."
+    sets:
+      - reps: 6
+        load_kg: 15
+      - reps: 6
+        load_kg: 15
+      - reps: 6
+        load_kg: 15
+
+  - name: Bar Tricep Extensions
+    notes: "10-12 reps per set."
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure

@@ -1,0 +1,38 @@
+# WEEK 6 - DAY 2 (Thu) - HEAVY DIP
+date: 2026-08-13
+
+exercises:
+  - name: Weighted Dip
+    notes: "First triples at 50. Single at 55."
+    sets:
+      - reps: 3
+        load_kg: 50
+      - reps: 3
+        load_kg: 50
+      - reps: 3
+        load_kg: 50
+      - reps: 3
+        load_kg: 50
+
+  - name: Weighted Dip
+    notes: "Heavy single(s). Full lockout, controlled bottom."
+    sets:
+      - reps: 1
+        load_kg: 55
+
+  - name: Weighted Ring Dip
+    notes: "Stability back-off."
+    sets:
+      - reps: 6
+        load_kg: 15
+      - reps: 6
+        load_kg: 15
+      - reps: 6
+        load_kg: 15
+
+  - name: Bar Tricep Extensions
+    notes: "10-12 reps per set."
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure

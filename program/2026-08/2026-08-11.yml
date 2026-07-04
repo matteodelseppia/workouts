@@ -1,0 +1,35 @@
+# WEEK 6 - DAY 1 (Tue) - HEAVY PULL
+date: 2026-08-11
+
+exercises:
+  - name: Weighted Pull Up
+    notes: "Single above goal to make 32 feel light."
+    sets:
+      - reps: 3
+        load_kg: 31
+      - reps: 3
+        load_kg: 31
+      - reps: 3
+        load_kg: 31
+
+  - name: Weighted Pull Up
+    notes: "Heavy singles. Clean, no kipping."
+    sets:
+      - reps: 1
+        load_kg: 34
+
+  - name: Weighted Pull Up
+    notes: "Back-off volume. Stop 2 reps shy of failure."
+    sets:
+      - reps: 6
+        load_kg: 20
+      - reps: 6
+        load_kg: 20
+
+  - name: Australian Pull Up
+    notes: "Squeeze 1-2s at top."
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
