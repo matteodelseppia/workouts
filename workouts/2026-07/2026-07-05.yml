@@ -1,0 +1,43 @@
+date: 2026-07-05
+
+exercises:
+  - name: Weighted Dip
+    notes: "Volume day"
+    rir: 0-2
+    sets:
+      - reps: 8
+        load_kg: 32.5
+      - reps: 8
+        load_kg: 32.5
+      - reps: 8
+        load_kg: 32.5
+
+  - name: Weighted Ring Dip
+    rir: 0
+    sets:
+      - reps: 6
+        load_kg: 15
+      - reps: 6
+        load_kg: 15
+
+  - name: Tuck Front Lever Raise
+    rir: 0-1
+    sets:
+      - reps: 8
+      - reps: 8
+      - reps: 8
+
+  - name: Ring Bicep Curl
+    notes: "Bicep isolation volume"
+    rir: 0-1
+    sets:
+      - reps: 6
+      - reps: 6
+      - reps: 6
+
+  - name: Bar Tricep Extension
+    rir: 1-2
+    sets:
+      - reps: 10
+      - reps: 10
+      - reps: 10
