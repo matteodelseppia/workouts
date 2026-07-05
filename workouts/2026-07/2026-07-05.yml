@@ -28,16 +28,17 @@ exercises:
       - reps: 8
 
   - name: Ring Bicep Curl
-    notes: "Bicep isolation volume"
+    notes: "Bicep isolation volume. 6-8 reps."
     rir: 0-1
     sets:
-      - reps: 6
-      - reps: 6
-      - reps: 6
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
 
   - name: Bar Tricep Extension
     rir: 1-2
+    notes: 10-12 reps
     sets:
-      - reps: 10
-      - reps: 10
-      - reps: 10
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
