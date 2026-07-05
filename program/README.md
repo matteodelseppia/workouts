@@ -24,3 +24,4 @@
 
 ## Adjustments
 - **Jul 4:** Week 0 volume-pull baseline (poor sleep) hit RIR 0 instead of the prescribed 2 on both Weighted Pull Up and Weighted Chin Up at the starting load. Trimmed those volume sets from 6 to 5 reps for the rest of the accumulation block (Jul 7 – Aug 1) — Tuesday back-off sets and Saturday volume day alike — keeping the load ramp unchanged so the pulling side keeps real reps in reserve.
+- **Jul 5:** Week 0 volume-push baseline: Weighted Ring Dip was prescribed as a moderate 3x8@12.5kg stability set, but was actually taken to 2x6@15kg at RIR 0. Trimmed Jul 12's Weighted Ring Dip volume from 8 to 6 reps at the prescribed 12.5kg so it stays a genuine back-off set ahead of Jul 9's Heavy Dip day.

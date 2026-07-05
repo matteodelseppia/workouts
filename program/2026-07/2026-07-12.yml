@@ -15,13 +15,13 @@ exercises:
         load_kg: 32
 
   - name: Weighted Ring Dip
-    notes: "Stability and volume."
+    notes: "Stability and volume. Reps trimmed from 8 to 6 after Jul 5 baseline hit RIR 0 at a heavier load (15kg) than prescribed."
     sets:
-      - reps: 8
+      - reps: 6
         load_kg: 12.5
-      - reps: 8
+      - reps: 6
         load_kg: 12.5
-      - reps: 8
+      - reps: 6
         load_kg: 12.5
 
   - name: Archer Push Up
