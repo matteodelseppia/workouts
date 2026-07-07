@@ -1,0 +1,43 @@
+date: 2026-07-07
+
+exercises:
+  - name: Weighted Pull Up
+    sets:
+      - reps: 3
+        load_kg: 28
+      - reps: 3
+        load_kg: 28
+      - reps: 3
+        load_kg: 28
+      - reps: 3
+        load_kg: 28
+      - reps: 3
+        load_kg: 28
+
+  - name: Weighted Pull Up
+    sets:
+      - reps: 1
+        load_kg: 31
+      - reps: 1
+        load_kg: 32
+      - reps: 1
+        load_kg: 31
+
+  - name: Weighted Pull Up
+    sets:
+      - reps: 5
+        load_kg: 20
+      - reps: 5
+        load_kg: 20
+
+  - name: Australian Pull Up
+    notes: Focus on squeeze for 1-2s.
+    sets:
+      - reps: to failure
+      - reps: to failure
+  
+  - name: Australian Chin Up
+    notes: Focus on squeeze for 1-2s.
+    sets:
+      - reps: to failure
+      - reps: to failure
