@@ -1,0 +1,50 @@
+date: 2026-07-09
+
+exercises:
+  - name: Weighted Dip
+    notes: Primary push strength work.
+    rir: 1
+    sets:
+      - reps: 5
+        load_kg: 40
+      - reps: 5
+        load_kg: 40
+      - reps: 5
+        load_kg: 40
+      - reps: 5
+        load_kg: 40
+      - reps: 5
+        load_kg: 40
+
+  - name: Weighted Ring Dip
+    notes: Stability and volume.
+    rir: 0-1
+    sets:
+      - reps: 5
+        load_kg: 20
+      - reps: 5
+        load_kg: 20
+      - reps: 5
+        load_kg: 20
+
+  - name: Tuck Front Lever Raise
+    notes: Skill/accessory. Tuck variant to keep quality high after push fatigue.
+    rir: 0
+    sets:
+      - reps: 9
+      - reps: 8
+      - reps: 8
+
+  - name: Ring Bicep Curl
+    notes: Around 7-8 reps per set.
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
+
+  - name: Bar Tricep Extensions
+    notes: Around 8-10 reps per set.
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
