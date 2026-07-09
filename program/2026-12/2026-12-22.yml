@@ -1,0 +1,23 @@
+# DELOAD - (Tue) - LIGHT PULL
+date: 2026-12-22
+
+exercises:
+  - name: Weighted Pull Up
+    notes: "Everything this week RIR 3-4. Half volume, ~60% load."
+    sets:
+      - reps: 5
+        load_kg: 17.5
+      - reps: 5
+        load_kg: 17.5
+
+  - name: Australian Pull Up
+    notes: "Easy."
+    sets:
+      - reps: 10
+      - reps: 10
+
+  - name: Ring Bicep Curl
+    notes: "Light."
+    sets:
+      - reps: 10
+      - reps: 10

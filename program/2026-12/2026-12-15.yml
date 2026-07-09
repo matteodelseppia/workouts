@@ -1,0 +1,21 @@
+# ACCUMULATION WEEK 7 - (Tue) - HEAVY PULL
+date: 2026-12-15
+
+exercises:
+  - name: Weighted Pull Up
+    notes: "Top sets. Rest 3-4 min. No grinding - drop 1-2kg if >RPE 9 and log what you did."
+    sets:
+      - reps: 3
+        load_kg: 33.5
+      - reps: 3
+        load_kg: 33.5
+      - reps: 3
+        load_kg: 33.5
+      - reps: 3
+        load_kg: 33.5
+
+  - name: Australian Pull Up
+    notes: "1-2s squeeze."
+    sets:
+      - reps: to failure
+      - reps: to failure

@@ -1,0 +1,30 @@
+# CONVERSION WEEK 1 - (Thu) - HEAVY DIP (5s)
+date: 2026-11-05
+
+exercises:
+  - name: Weighted Dip
+    notes: "RIR 2. Rest 3 min. Tendons are re-adapting to heavy loads - crisp reps only."
+    sets:
+      - reps: 5
+        load_kg: 42.5
+      - reps: 5
+        load_kg: 42.5
+      - reps: 5
+        load_kg: 42.5
+      - reps: 5
+        load_kg: 42.5
+
+  - name: Weighted Ring Dip
+    notes: "Stability back-off. RIR 2-3."
+    sets:
+      - reps: 6
+        load_kg: 15
+      - reps: 6
+        load_kg: 15
+
+  - name: Bar Tricep Extensions
+    notes: "10-12 reps per set."
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure

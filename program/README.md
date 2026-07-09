@@ -1,5 +1,29 @@
 # Training Programs
 
+## Block 3: Strength — Nov 3, 2026 → Jan 23, 2027
+
+**Goals:** Pull Up 3RM @ 37 kg · Dip 3RM @ 66–67 kg, 70 as a stretch (bodyweight ~90–92 kg).
+
+### Structure (4 days/week — same as Block 1)
+| Day | Focus |
+|-----|-------|
+| Tue | Heavy pull |
+| Thu | Heavy dip |
+| Sat | Volume pull + front lever (→ light technique in peak) |
+| Sun | Volume push (→ full rest in peak) |
+
+### Phases
+- **Nov 3–22: conversion.** Everything at 5s (pulls 22.5→25, dips 42.5→47.5, RIR 2). Re-teaches heavy loads after two months of rep work. These should feel *easier* than July's 5s — if a week grinds, repeat it before moving on.
+- **Nov 24 – Dec 20: accumulation.** Pulls 5x3@29 → 4x3@33.5; dips 5x4@50 → 4x3@61. Back-offs and volume days shrink each week and disappear by week 4.
+- **Dec 22–27: deload.** Half volume, ~60% loads. Christmas-shaped.
+- **Dec 29 – Jan 16: peak.** Doubles + one single per heavy day (pulls 2s @34→35.5, singles to 37; dips 2s @62→66, singles to 69). Saturday becomes speed/technique, Sunday full rest.
+- **Jan 19: taper** (opener singles only, then full rest Jan 20–22). **Jan 23: test day** — pull 32 / 35 / 37, dip 62 / 66 / 70. Third attempts are conditional: take them only if the second attempt moved with room to spare.
+
+### Rules
+- Same as Block 1: rest 3–4 min on top sets, no grinding, loads are prescriptions not contracts, repeat a week rather than push through bad sessions.
+- Hold **maintenance calories** from Nov 2 — the Block 2 surplus ends, but don't cut during a strength block.
+- Checkpoint after accumulation (Dec 20): if 4x3@33.5 / 4x3@61 didn't happen at ≤RPE 9, insert an extra week and slide the test to Jan 30 rather than peaking on numbers you don't own.
+
 ## Block 2: Hypertrophy — Sept 2 → Nov 1, 2026
 
 **Goal:** convert the strength built for the Sept 1 comp into muscle. Rep ranges 6–15, volume-driven, no low-rep work.

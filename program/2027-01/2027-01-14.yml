@@ -1,0 +1,23 @@
+# PEAK WEEK 3 - (Thu) - HEAVY DIP (2s + single)
+date: 2027-01-14
+
+exercises:
+  - name: Weighted Dip
+    notes: "Doubles. Explosive intent. Rest 3-4 min."
+    sets:
+      - reps: 2
+        load_kg: 66
+      - reps: 2
+        load_kg: 66
+
+  - name: Weighted Dip
+    notes: "ONLY take the single if the doubles were fast - otherwise stop and save it for test day."
+    sets:
+      - reps: 1
+        load_kg: 69
+
+  - name: Weighted Ring Dip
+    notes: "One easy back-off. RIR 3."
+    sets:
+      - reps: 5
+        load_kg: 15

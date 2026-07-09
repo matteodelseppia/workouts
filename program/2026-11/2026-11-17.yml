@@ -1,0 +1,35 @@
+# CONVERSION WEEK 3 - (Tue) - HEAVY PULL (5s)
+date: 2026-11-17
+
+exercises:
+  - name: Weighted Pull Up
+    notes: "Re-learning heavy loads after the hypertrophy block. RIR 2 - these should feel easier than 5s did in July. If not, repeat the week."
+    sets:
+      - reps: 5
+        load_kg: 25
+      - reps: 5
+        load_kg: 25
+      - reps: 5
+        load_kg: 25
+      - reps: 5
+        load_kg: 25
+
+  - name: Weighted Pull Up
+    notes: "Back-off. RIR 2-3, no grinding."
+    sets:
+      - reps: 6
+        load_kg: 15
+      - reps: 6
+        load_kg: 15
+
+  - name: Australian Pull Up
+    notes: "1-2s squeeze."
+    sets:
+      - reps: to failure
+      - reps: to failure
+
+  - name: Ring Bicep Curl
+    notes: "8-12 reps."
+    sets:
+      - reps: to failure
+      - reps: to failure

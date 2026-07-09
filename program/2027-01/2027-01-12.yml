@@ -1,0 +1,23 @@
+# PEAK WEEK 3 - (Tue) - HEAVY PULL (2s + single)
+date: 2027-01-12
+
+exercises:
+  - name: Weighted Pull Up
+    notes: "Doubles. Explosive intent on every rep. Rest 3-4 min."
+    sets:
+      - reps: 2
+        load_kg: 35.5
+      - reps: 2
+        load_kg: 35.5
+
+  - name: Weighted Pull Up
+    notes: "ONLY take the single if the doubles were fast - otherwise stop and save it for test day."
+    sets:
+      - reps: 1
+        load_kg: 37
+
+  - name: Weighted Pull Up
+    notes: "One easy back-off. RIR 3."
+    sets:
+      - reps: 5
+        load_kg: 20

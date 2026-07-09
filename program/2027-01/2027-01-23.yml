@@ -1,0 +1,23 @@
+# TEST DAY - 3RM ATTEMPTS
+date: 2027-01-23
+
+exercises:
+  - name: Weighted Pull Up
+    notes: "Warm up like comp day. 32 is the opener. Take 37 ONLY if 35 moved with a rep clearly in reserve - a 35-36 triple is already a full-success cycle."
+    sets:
+      - reps: 3
+        load_kg: 32
+      - reps: 3
+        load_kg: 35
+      - reps: 3
+        load_kg: 37
+
+  - name: Weighted Dip
+    notes: "Rest 20+ min after pulls. 70 ONLY if 66 flew - 66-67 is the solid target, 70 is the stretch."
+    sets:
+      - reps: 3
+        load_kg: 62
+      - reps: 3
+        load_kg: 66
+      - reps: 3
+        load_kg: 70

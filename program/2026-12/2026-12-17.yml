@@ -1,0 +1,21 @@
+# ACCUMULATION WEEK 7 - (Thu) - HEAVY DIP
+date: 2026-12-17
+
+exercises:
+  - name: Weighted Dip
+    notes: "Top sets. Rest 3-4 min. A failed rep costs more than a skipped set."
+    sets:
+      - reps: 3
+        load_kg: 61
+      - reps: 3
+        load_kg: 61
+      - reps: 3
+        load_kg: 61
+      - reps: 3
+        load_kg: 61
+
+  - name: Bar Tricep Extensions
+    notes: "10-12 reps."
+    sets:
+      - reps: to failure
+      - reps: to failure

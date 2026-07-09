@@ -1,0 +1,33 @@
+# ACCUMULATION WEEK 6 - (Sun) - VOLUME PUSH
+date: 2026-12-13
+
+exercises:
+  - name: Weighted Dip
+    notes: "RIR 2."
+    sets:
+      - reps: 5
+        load_kg: 40
+      - reps: 5
+        load_kg: 40
+      - reps: 5
+        load_kg: 40
+
+  - name: Weighted Ring Dip
+    notes: "RIR 2."
+    sets:
+      - reps: 6
+        load_kg: 15
+      - reps: 6
+        load_kg: 15
+
+  - name: Deep Ring Push Up
+    notes: "RIR 1."
+    sets:
+      - reps: to failure
+      - reps: to failure
+
+  - name: Bar Tricep Extensions
+    notes: "12-15 reps."
+    sets:
+      - reps: to failure
+      - reps: to failure

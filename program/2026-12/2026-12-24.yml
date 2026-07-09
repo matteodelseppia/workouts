@@ -1,0 +1,23 @@
+# DELOAD - (Thu) - LIGHT DIP
+date: 2026-12-24
+
+exercises:
+  - name: Weighted Dip
+    notes: "RIR 3-4. Short session, merry Christmas."
+    sets:
+      - reps: 5
+        load_kg: 30
+      - reps: 5
+        load_kg: 30
+
+  - name: Deep Ring Push Up
+    notes: "Easy."
+    sets:
+      - reps: 10
+      - reps: 10
+
+  - name: Bar Tricep Extensions
+    notes: "Light."
+    sets:
+      - reps: 12
+      - reps: 12

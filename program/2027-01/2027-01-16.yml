@@ -1,0 +1,29 @@
+# PEAK WEEK 3 - (Sat) - LIGHT TECHNIQUE
+date: 2027-01-16
+
+exercises:
+  - name: Weighted Pull Up
+    notes: "Speed work. Every rep explosive, RIR 4+."
+    sets:
+      - reps: 3
+        load_kg: 25
+      - reps: 3
+        load_kg: 25
+      - reps: 3
+        load_kg: 25
+
+  - name: Weighted Dip
+    notes: "Speed work. RIR 4+."
+    sets:
+      - reps: 3
+        load_kg: 45
+      - reps: 3
+        load_kg: 45
+      - reps: 3
+        load_kg: 45
+
+  - name: Tuck Front Lever Raise
+    notes: "Easy skill maintenance. Sunday: full rest all peak weeks."
+    sets:
+      - reps: 6
+      - reps: 6

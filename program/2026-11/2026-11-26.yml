@@ -1,0 +1,32 @@
+# ACCUMULATION WEEK 4 - (Thu) - HEAVY DIP
+date: 2026-11-26
+
+exercises:
+  - name: Weighted Dip
+    notes: "Top sets. Rest 3-4 min. A failed rep costs more than a skipped set."
+    sets:
+      - reps: 4
+        load_kg: 50
+      - reps: 4
+        load_kg: 50
+      - reps: 4
+        load_kg: 50
+      - reps: 4
+        load_kg: 50
+      - reps: 4
+        load_kg: 50
+
+  - name: Weighted Ring Dip
+    notes: "Back-off. RIR 2."
+    sets:
+      - reps: 5
+        load_kg: 20
+      - reps: 5
+        load_kg: 20
+
+  - name: Bar Tricep Extensions
+    notes: "10-12 reps."
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure

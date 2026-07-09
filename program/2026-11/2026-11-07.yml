@@ -1,0 +1,36 @@
+# CONVERSION WEEK 1 - (Sat) - VOLUME PULL + FRONT LEVER
+date: 2026-11-07
+
+exercises:
+  - name: Weighted Pull Up
+    notes: "Volume work. RIR 2."
+    sets:
+      - reps: 6
+        load_kg: 20
+      - reps: 6
+        load_kg: 20
+      - reps: 6
+        load_kg: 20
+      - reps: 6
+        load_kg: 20
+
+  - name: Tuck Front Lever Raise
+    notes: "Quality first. RIR 1."
+    sets:
+      - reps: 8
+      - reps: 8
+      - reps: 8
+
+  - name: Australian Pull Up
+    notes: "1-2s squeeze. RIR 0-1."
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
+
+  - name: Ring Bicep Curl
+    notes: "8-12 reps."
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure

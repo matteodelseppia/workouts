@@ -1,0 +1,35 @@
+# FINAL WEEK - DAY 4 (Sun) - PULL VOLUME - BLOCK ENDS
+date: 2026-11-01
+
+exercises:
+  - name: Weighted Pull Up
+    notes: "RIR 2. Last session of the block."
+    sets:
+      - reps: 12
+        load_kg: 12.5
+      - reps: 12
+        load_kg: 12.5
+      - reps: 12
+        load_kg: 12.5
+
+  - name: Australian Pull Up
+    notes: "RIR 0-1."
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
+
+  - name: Tuck Front Lever Raise
+    notes: "RIR 1."
+    sets:
+      - reps: 8
+      - reps: 8
+      - reps: 8
+
+  - name: Ring Bicep Curl
+    notes: "12-15 reps. RIR 0."
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
