@@ -1,0 +1,23 @@
+# DELOAD - DAY 1 (Tue) - LIGHT PUSH
+date: 2026-09-29
+
+exercises:
+  - name: Weighted Dip
+    notes: "Everything this week RIR 3-4. Half volume, ~60% load. Growth happens now."
+    sets:
+      - reps: 8
+        load_kg: 20
+      - reps: 8
+        load_kg: 20
+
+  - name: Deep Ring Push Up
+    notes: "Easy tempo."
+    sets:
+      - reps: 10
+      - reps: 10
+
+  - name: Bar Tricep Extensions
+    notes: "Light, far from failure."
+    sets:
+      - reps: 12
+      - reps: 12

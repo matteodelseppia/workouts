@@ -1,0 +1,36 @@
+# HYPERTROPHY WEEK 2 - DAY 2 (Thu) - PULL PRIMARY
+date: 2026-09-17
+
+exercises:
+  - name: Weighted Pull Up
+    notes: "Double progression: target 10 reps, stop at RIR 1-2. Drop 2.5kg rather than grind."
+    sets:
+      - reps: 10
+        load_kg: 15
+      - reps: 10
+        load_kg: 15
+      - reps: 10
+        load_kg: 15
+      - reps: 10
+        load_kg: 15
+
+  - name: Tuck Front Lever Raise
+    notes: "Quality first. RIR 1."
+    sets:
+      - reps: 8
+      - reps: 8
+      - reps: 8
+
+  - name: Australian Pull Up
+    notes: "1-2s squeeze at the top. RIR 0-1."
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
+
+  - name: Ring Bicep Curl
+    notes: "8-12 reps per set. RIR 0-1."
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure

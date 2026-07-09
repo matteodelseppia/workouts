@@ -1,0 +1,37 @@
+# FINAL WEEK - DAY 1 (Tue) - PUSH REP-MAX
+date: 2026-10-27
+
+exercises:
+  - name: Weighted Dip
+    notes: "Block close-out: first set AMRAP at RIR 1 (cap at 15). Log the number - it is the block's progress marker vs 4x8 in week 4."
+    sets:
+      - reps: AMRAP
+        load_kg: 35
+      - reps: 10
+        load_kg: 35
+      - reps: 10
+        load_kg: 35
+
+  - name: Weighted Ring Dip
+    notes: "RIR 1-2."
+    sets:
+      - reps: 10
+        load_kg: 17.5
+      - reps: 10
+        load_kg: 17.5
+      - reps: 10
+        load_kg: 17.5
+
+  - name: Deep Ring Push Up
+    notes: "RIR 0-1."
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
+
+  - name: Bar Tricep Extensions
+    notes: "12-15 reps. RIR 0."
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure

@@ -1,0 +1,23 @@
+# DELOAD - DAY 2 (Thu) - LIGHT PULL
+date: 2026-10-01
+
+exercises:
+  - name: Weighted Pull Up
+    notes: "RIR 3-4."
+    sets:
+      - reps: 8
+        load_kg: 7.5
+      - reps: 8
+        load_kg: 7.5
+
+  - name: Australian Pull Up
+    notes: "Easy squeeze."
+    sets:
+      - reps: 12
+      - reps: 12
+
+  - name: Ring Bicep Curl
+    notes: "Light, far from failure."
+    sets:
+      - reps: 10
+      - reps: 10

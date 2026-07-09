@@ -1,4 +1,35 @@
-# Street Lifting Prep — Comp Sept 1, 2026
+# Training Programs
+
+## Block 2: Hypertrophy — Sept 2 → Nov 1, 2026
+
+**Goal:** convert the strength built for the Sept 1 comp into muscle. Rep ranges 6–15, volume-driven, no low-rep work.
+
+**Exercise pool (fixed):** Weighted Pull Up · Weighted Dip · Weighted Ring Dip · Deep Ring Push Up · Tuck Front Lever Raise · Australian Pull Up · Ring Bicep Curl · Bar Tricep Extensions.
+
+### Structure (4 days/week)
+| Day | Focus |
+|-----|-------|
+| Tue | Push primary (weighted dips + ring dips, 6–12 reps) |
+| Thu | Pull primary (weighted pull ups, front lever, curls) |
+| Sat | Push volume (lighter dips, ring push ups, high-rep triceps) |
+| Sun | Pull volume (lighter pull ups, australians, curls) |
+
+### Blocks
+- **Sept 2–6: transition.** Two easy sessions (Sept 3, 6) at RIR 3–4. Post-comp recovery — do not skip, do not load.
+- **Sept 8–27: wave 1.** Double progression: same loads all 3 weeks, rep targets climb 8 → 10 → 12 on primaries (12 → 15 on volume days). Week 3 adds a 5th set to the main lift.
+- **Sept 29 – Oct 4: deload.** Half volume, ~60% loads, RIR 3–4. Sunday Oct 4 full rest.
+- **Oct 6–25: wave 2.** Same rep wave at +2.5 kg on every weighted movement.
+- **Oct 27 – Nov 1: final week.** AMRAP rep-max sets on dips (@35) and pull ups (@17.5) as the block's progress markers, then normal volume days to close.
+
+### Rules
+- Primaries stop at RIR 1–2; isolation and "to failure" work means RIR 0–1. Unlike the strength block, grinding the last isolation sets is encouraged here.
+- If a rep target isn't hit on all sets, repeat that week's target at the same load — don't add load on partial completion.
+- Eat for it: ~250–350 kcal/day surplus, 160–180 g protein. Without the surplus this block returns a fraction of the result.
+- Rest 2–3 min on primaries, 60–90 s on everything else.
+
+---
+
+# Block 1: Street Lifting Prep — Comp Sept 1, 2026
 
 **Goals:** Pull Up 3RM @ 32 kg · Dip 3RM @ 60 kg (bodyweight 90 kg)
 

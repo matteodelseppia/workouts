@@ -1,0 +1,35 @@
+# TRANSITION - DAY 1 (Thu) - LIGHT FULL UPPER
+date: 2026-09-03
+
+exercises:
+  - name: Weighted Dip
+    notes: "Post-comp recovery. Everything RIR 3-4, smooth reps only."
+    sets:
+      - reps: 8
+        load_kg: 10
+      - reps: 8
+        load_kg: 10
+      - reps: 8
+        load_kg: 10
+
+  - name: Weighted Pull Up
+    notes: "RIR 3-4. Just move."
+    sets:
+      - reps: 6
+        load_kg: 5
+      - reps: 6
+        load_kg: 5
+      - reps: 6
+        load_kg: 5
+
+  - name: Deep Ring Push Up
+    notes: "Easy tempo, full range."
+    sets:
+      - reps: 10
+      - reps: 10
+
+  - name: Australian Pull Up
+    notes: "Easy squeeze, no failure."
+    sets:
+      - reps: 12
+      - reps: 12

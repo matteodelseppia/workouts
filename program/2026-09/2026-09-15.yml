@@ -1,0 +1,39 @@
+# HYPERTROPHY WEEK 2 - DAY 1 (Tue) - PUSH PRIMARY
+date: 2026-09-15
+
+exercises:
+  - name: Weighted Dip
+    notes: "Double progression: target 10 reps, stop at RIR 1-2. If all sets hit 10 cleanly, next week adds reps at the same load."
+    sets:
+      - reps: 10
+        load_kg: 32.5
+      - reps: 10
+        load_kg: 32.5
+      - reps: 10
+        load_kg: 32.5
+      - reps: 10
+        load_kg: 32.5
+
+  - name: Weighted Ring Dip
+    notes: "RIR 1-2. Controlled, full depth."
+    sets:
+      - reps: 10
+        load_kg: 15
+      - reps: 10
+        load_kg: 15
+      - reps: 10
+        load_kg: 15
+
+  - name: Deep Ring Push Up
+    notes: "As deep as shoulders allow. RIR 1-2."
+    sets:
+      - reps: 12
+      - reps: 12
+      - reps: 12
+
+  - name: Bar Tricep Extensions
+    notes: "12-15 reps per set. RIR 0-1."
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure

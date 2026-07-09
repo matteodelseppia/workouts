@@ -1,0 +1,41 @@
+# TRANSITION - DAY 2 (Sun) - LIGHT FULL UPPER
+date: 2026-09-06
+
+exercises:
+  - name: Weighted Dip
+    notes: "RIR 3. Last easy day before the block starts."
+    sets:
+      - reps: 10
+        load_kg: 10
+      - reps: 10
+        load_kg: 10
+      - reps: 10
+        load_kg: 10
+
+  - name: Weighted Pull Up
+    notes: "RIR 3."
+    sets:
+      - reps: 8
+        load_kg: 5
+      - reps: 8
+        load_kg: 5
+      - reps: 8
+        load_kg: 5
+
+  - name: Tuck Front Lever Raise
+    notes: "Crisp, well short of failure."
+    sets:
+      - reps: 6
+      - reps: 6
+
+  - name: Ring Bicep Curl
+    notes: "Light pump work."
+    sets:
+      - reps: 10
+      - reps: 10
+
+  - name: Bar Tricep Extensions
+    notes: "Light pump work."
+    sets:
+      - reps: 12
+      - reps: 12

@@ -1,0 +1,35 @@
+# HYPERTROPHY WEEK 1 - DAY 4 (Sun) - PULL VOLUME
+date: 2026-09-13
+
+exercises:
+  - name: Weighted Pull Up
+    notes: "Lighter volume work. Target 10 reps at RIR 2."
+    sets:
+      - reps: 10
+        load_kg: 10
+      - reps: 10
+        load_kg: 10
+      - reps: 10
+        load_kg: 10
+
+  - name: Australian Pull Up
+    notes: "1-2s squeeze at the top. RIR 0-1."
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
+
+  - name: Tuck Front Lever Raise
+    notes: "8-10 reps. RIR 1."
+    sets:
+      - reps: 8
+      - reps: 8
+      - reps: 8
+
+  - name: Ring Bicep Curl
+    notes: "12-15 reps per set. RIR 0."
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure

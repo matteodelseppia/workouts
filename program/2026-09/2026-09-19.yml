@@ -1,0 +1,37 @@
+# HYPERTROPHY WEEK 2 - DAY 3 (Sat) - PUSH VOLUME
+date: 2026-09-19
+
+exercises:
+  - name: Weighted Dip
+    notes: "Lighter volume work. Target 13 reps at RIR 2."
+    sets:
+      - reps: 13
+        load_kg: 25
+      - reps: 13
+        load_kg: 25
+      - reps: 13
+        load_kg: 25
+
+  - name: Weighted Ring Dip
+    notes: "RIR 1-2."
+    sets:
+      - reps: 13
+        load_kg: 10
+      - reps: 13
+        load_kg: 10
+      - reps: 13
+        load_kg: 10
+
+  - name: Deep Ring Push Up
+    notes: "RIR 0-1. Chase the pump, keep depth honest."
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
+
+  - name: Bar Tricep Extensions
+    notes: "15-20 reps per set. RIR 0."
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure

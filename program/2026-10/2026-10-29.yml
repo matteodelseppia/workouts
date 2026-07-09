@@ -1,0 +1,34 @@
+# FINAL WEEK - DAY 2 (Thu) - PULL REP-MAX
+date: 2026-10-29
+
+exercises:
+  - name: Weighted Pull Up
+    notes: "First set AMRAP at RIR 1 (cap at 15). Log it - progress marker vs 4x8 in week 4."
+    sets:
+      - reps: AMRAP
+        load_kg: 17.5
+      - reps: 8
+        load_kg: 17.5
+      - reps: 8
+        load_kg: 17.5
+
+  - name: Tuck Front Lever Raise
+    notes: "RIR 1."
+    sets:
+      - reps: 8
+      - reps: 8
+      - reps: 8
+
+  - name: Australian Pull Up
+    notes: "RIR 0-1."
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
+
+  - name: Ring Bicep Curl
+    notes: "8-12 reps. RIR 0-1."
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
