@@ -1,0 +1,62 @@
+date: 2026-07-11
+t_start: 7AM
+t_end: 8.30AM
+notes: Training early in the morning disrupts performance. 
+
+exercises:
+  - name: Weighted Pull Up
+    notes: "Volume day"
+    rir: 0-1
+    sets:
+      - reps: 5
+        load_kg: 20
+      - reps: 5
+        load_kg: 20
+      - reps: 5
+        load_kg: 20
+      - reps: 5
+        load_kg: 20
+
+  - name: Weighted Chin Up
+    rir: 1
+    sets:
+      - reps: 5
+        load_kg: 16
+      - reps: 5
+        load_kg: 16
+      - reps: 5
+        load_kg: 16
+      - reps: 5
+        load_kg: 16
+
+  - name: Ring Australian Chin Up
+    notes: "Horizontal pulling volume. Squeeze hard for 2-3s."
+    rep_range: 8-12
+    sets:
+      - reps: to failure
+      - reps: to failure
+
+  - name: Australian Pull Up
+    notes: "Horizontal pulling volume. Squeeze hard for 2-3s."
+    rep_range: 8-12
+    sets:
+      - reps: to failure
+      - reps: to failure
+
+  - name: Ring Bicep Curl
+    notes: "Bicep isolation volume"
+    rep_range: 6-10
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
+
+  - name: Hanging Knee Raises
+    notes: "Focus on keeping hollow body tension all the time."
+    rep_range: 6-10
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
