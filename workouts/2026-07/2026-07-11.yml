@@ -1,7 +1,7 @@
 date: 2026-07-11
 t_start: 7AM
 t_end: 8.30AM
-notes: Training early in the morning disrupts performance. 
+comment: Training early in the morning disrupts performance. 
 
 exercises:
   - name: Weighted Pull Up
