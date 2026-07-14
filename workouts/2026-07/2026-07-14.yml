@@ -1,0 +1,35 @@
+date: 2026-07-14
+t_start: 6PM
+t_end: 7.30PM
+comment: Dirty session, was forced to descope from 5x3 to 6x2.
+
+exercises:
+  - name: Weighted Pull Up
+    sets:
+      - reps: 2
+        load_kg: 29
+      - reps: 2
+        load_kg: 29
+      - reps: 2
+        load_kg: 29
+      - reps: 2
+        load_kg: 29
+      - reps: 2
+        load_kg: 29
+      - reps: 2
+        load_kg: 29
+
+  - name: Weighted Pull Up
+    sets:
+      - reps: 1
+        load_kg: 32
+      - reps: 1
+        load_kg: 32
+
+  - name: Australian Pull Up
+    notes: Focus on squeeze for 1-2s.
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
