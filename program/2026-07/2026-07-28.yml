@@ -3,16 +3,16 @@ date: 2026-07-28
 
 exercises:
   - name: Weighted Pull Up
-    notes: "Volume drops, intensity climbs. All triples clean."
+    notes: "Dropped to 30 (from 31) — shifted down one rung after the Jul 14/Jul 21 retest. Volume drops, intensity climbs. All triples clean."
     sets:
       - reps: 3
-        load_kg: 31
+        load_kg: 30
       - reps: 3
-        load_kg: 31
+        load_kg: 30
       - reps: 3
-        load_kg: 31
+        load_kg: 30
       - reps: 3
-        load_kg: 31
+        load_kg: 30
 
   - name: Weighted Pull Up
     notes: "Back-off volume. Stop 2 reps shy of failure. Reps trimmed to 5 for the block."
@@ -21,6 +21,13 @@ exercises:
         load_kg: 20
       - reps: 5
         load_kg: 20
+
+  - name: Elevated Partial Pull Up
+    notes: "Closure work. Pins/box at chin-over-bar height, hold and press through lockout."
+    sets:
+      - reps: 5
+      - reps: 5
+      - reps: 5
 
   - name: Australian Pull Up
     notes: "Squeeze 1-2s at top."

@@ -32,6 +32,13 @@ exercises:
       - reps: 5
         load_kg: 20
 
+  - name: Elevated Partial Pull Up
+    notes: "Closure work. Pins/box at chin-over-bar height, hold and press through lockout."
+    sets:
+      - reps: 5
+      - reps: 5
+      - reps: 5
+
   - name: Australian Pull Up
     notes: "Squeeze 1-2s at top."
     sets:

@@ -3,22 +3,22 @@ date: 2026-07-21
 
 exercises:
   - name: Weighted Pull Up
-    notes: "First triples at 30. Rest 3-4 min between sets."
+    notes: "Retest at 29, not 30 — Jul 14's 29kg triples broke down to 6x2. Rest 3-4 min between sets. If this goes clean, resume the ramp on Jul 28."
     sets:
       - reps: 3
-        load_kg: 30
+        load_kg: 29
       - reps: 3
-        load_kg: 30
+        load_kg: 29
       - reps: 3
-        load_kg: 30
+        load_kg: 29
       - reps: 3
-        load_kg: 30
+        load_kg: 29
 
   - name: Weighted Pull Up
-    notes: "Heavy singles. Clean, no kipping."
+    notes: "Heavy singles. Dropped to 32 (from 33), matching Jul 14's single load. Clean, no kipping."
     sets:
       - reps: 1
-        load_kg: 33
+        load_kg: 32
 
   - name: Weighted Pull Up
     notes: "Back-off volume. Stop 2 reps shy of failure. Reps trimmed to 5 for the block."
@@ -27,6 +27,13 @@ exercises:
         load_kg: 20
       - reps: 5
         load_kg: 20
+
+  - name: Elevated Partial Pull Up
+    notes: "Closure work. Pins/box at chin-over-bar height, hold and press through lockout."
+    sets:
+      - reps: 5
+      - reps: 5
+      - reps: 5
 
   - name: Australian Pull Up
     notes: "Squeeze 1-2s at top."
