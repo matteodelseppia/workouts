@@ -1,0 +1,33 @@
+date: 2026-07-15
+
+exercises:
+  - name: Weighted Dip
+    notes: Primary push strength work.
+    rir: 0-1
+    sets:
+      - reps: 5
+        load_kg: 42.5
+      - reps: 5
+        load_kg: 42.5
+      - reps: 5
+        load_kg: 42.5
+      - reps: 5
+        load_kg: 42.5
+
+  - name: Weighted Ring Dip
+    notes: Stability and volume.
+    rir: 0-1
+    sets:
+      - reps: 7
+        load_kg: 20
+      - reps: 6
+        load_kg: 20
+      - reps: 6
+        load_kg: 20
+
+  - name: Bar Tricep Extensions
+    notes: 15 reps per set.
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
