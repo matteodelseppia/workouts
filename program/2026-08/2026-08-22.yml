@@ -1,28 +1,24 @@
-# WEEK 7 - DAY 3 (Sat) - VOLUME PULL
+# WEEK 7 - DAY 3 (Sat) - PULL VOLUME - HYPERTROPHY WAVE 2
 date: 2026-08-22
 
 exercises:
-  - name: Weighted Pull Up
-    notes: "Volume day. 2 reps in reserve each set."
-    sets:
-      - reps: 6
-        load_kg: 25
-      - reps: 6
-        load_kg: 25
-      - reps: 6
-        load_kg: 25
-      - reps: 6
-        load_kg: 25
-
   - name: Weighted Chin Up
-    notes: "Supinated volume."
+    notes: "Target 11 reps, same load as Aug 15."
     sets:
-      - reps: 6
-        load_kg: 21
-      - reps: 6
-        load_kg: 21
-      - reps: 6
-        load_kg: 21
+      - reps: 11
+        load_kg: 10
+      - reps: 11
+        load_kg: 10
+      - reps: 11
+        load_kg: 10
+
+  - name: Weighted Pull Up
+    notes: "Secondary. Fixed reps, stop at RIR 2 — don't chase failure."
+    sets:
+      - reps: 8
+        load_kg: 15
+      - reps: 8
+        load_kg: 15
 
   - name: Tuck Front Lever Raise
     notes: "Skill work. Controlled eccentric."
@@ -30,6 +26,14 @@ exercises:
       - reps: 8
       - reps: 8
       - reps: 8
+
+  - name: Australian Pull Up
+    notes: "1-2s squeeze at top."
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
 
   - name: Ring Face Pull
     notes: "12-15 reps. Shoulder health."

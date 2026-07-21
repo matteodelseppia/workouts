@@ -1,20 +1,17 @@
-# WEEK 5 - DAY 1 (Tue) - HEAVY PULL - DELOAD
+# WEEK 5 - DAY 1 (Tue) - PULL - DELOAD
 date: 2026-08-04
 
 exercises:
-  - name: Weighted Pull Up
+  - name: Weighted Chin Up
     notes: "DELOAD. Easy, crisp reps. Leave the gym fresh."
     sets:
-      - reps: 3
-        load_kg: 27
-      - reps: 3
-        load_kg: 27
-      - reps: 3
-        load_kg: 27
+      - reps: 8
+        load_kg: 5
+      - reps: 8
+        load_kg: 5
 
   - name: Australian Pull Up
-    notes: "Easy pump work only."
+    notes: "Easy squeeze, no failure."
     sets:
-      - reps: to failure
       - reps: to failure
       - reps: to failure
