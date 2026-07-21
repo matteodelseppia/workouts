@@ -1,0 +1,28 @@
+date: 2026-07-21
+
+exercises:
+  - name: Weighted Chin Up
+    notes: Super clean reps.
+    sets:
+      - reps: 7
+        load_kg: 12.5
+      - reps: 7
+        load_kg: 12.5
+      - reps: 7
+        load_kg: 12.5
+      - reps: 7
+        load_kg: 12.5
+
+  - name: Tuck Front Lever Raise
+    sets:
+      - reps: 8
+      - reps: 8
+      - reps: 8
+      - reps: 8
+
+  - name: Australian Pull Up
+    notes: Focus on squeeze for 1-2s.
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
