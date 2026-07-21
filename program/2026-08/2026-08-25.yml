@@ -1,27 +1,13 @@
-# WEEK 8 - DAY 1 (Tue) - HEAVY PULL - TAPER
+# WEEK 8 - DAY 1 (Tue) - PULL - TAPER
 date: 2026-08-25
 
 exercises:
-  - name: Weighted Pull Up
-    notes: "TAPER. Short and sharp: doubles at 30, confident singles at 32. Done in 30 min."
+  - name: Weighted Chin Up
+    notes: "TAPER. Light dose only — protecting recovery for the Sept 1 dip comp, not chasing progression this week. Short session, done in 15-20 min."
     sets:
-      - reps: 2
-        load_kg: 30
-      - reps: 2
-        load_kg: 30
-
-  - name: Weighted Pull Up
-    notes: "Heavy singles. Clean, no kipping."
-    sets:
-      - reps: 1
-        load_kg: 32
-      - reps: 1
-        load_kg: 32
-
-  - name: Weighted Dip
-    notes: "Taper primer: fast, explosive doubles."
-    sets:
-      - reps: 2
-        load_kg: 50
-      - reps: 2
-        load_kg: 50
+      - reps: 8
+        load_kg: 10
+      - reps: 8
+        load_kg: 10
+      - reps: 8
+        load_kg: 10

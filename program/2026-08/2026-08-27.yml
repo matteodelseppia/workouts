@@ -17,11 +17,3 @@ exercises:
         load_kg: 56
       - reps: 1
         load_kg: 56
-
-  - name: Weighted Pull Up
-    notes: "Taper primer: two crisp singles at goal weight."
-    sets:
-      - reps: 1
-        load_kg: 32
-      - reps: 1
-        load_kg: 32

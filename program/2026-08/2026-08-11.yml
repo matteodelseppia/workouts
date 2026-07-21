@@ -1,42 +1,39 @@
-# WEEK 6 - DAY 1 (Tue) - HEAVY PULL
+# WEEK 6 - DAY 1 (Tue) - PULL PRIMARY - HYPERTROPHY WAVE 2
 date: 2026-08-11
 
 exercises:
-  - name: Weighted Pull Up
-    notes: "Single above goal to make 32 feel light."
+  - name: Weighted Chin Up
+    notes: "Wave 2: +2.5kg, reps reset to 8. Double progression: target 8 reps, stop at RIR 1-2."
     sets:
-      - reps: 3
-        load_kg: 31
-      - reps: 3
-        load_kg: 31
-      - reps: 3
-        load_kg: 31
+      - reps: 8
+        load_kg: 12.5
+      - reps: 8
+        load_kg: 12.5
+      - reps: 8
+        load_kg: 12.5
+      - reps: 8
+        load_kg: 12.5
 
   - name: Weighted Pull Up
-    notes: "Heavy singles. Clean, no kipping."
-    sets:
-      - reps: 1
-        load_kg: 34
-
-  - name: Weighted Pull Up
-    notes: "Back-off volume. Stop 2 reps shy of failure."
+    notes: "Secondary. Fixed reps, don't push toward failure."
     sets:
       - reps: 6
-        load_kg: 20
+        load_kg: 17.5
       - reps: 6
-        load_kg: 20
+        load_kg: 17.5
+      - reps: 6
+        load_kg: 17.5
 
-  - name: Elevated Partial Pull Up
-    notes: "Closure work. Pins/box at chin-over-bar height, hold and press through lockout."
+  - name: Tuck Front Lever Raise
+    notes: "Skill work. Controlled eccentric."
     sets:
-      - reps: 5
-      - reps: 5
-      - reps: 5
+      - reps: 8
+      - reps: 8
+      - reps: 8
 
-  - name: Australian Pull Up
-    notes: "Squeeze 1-2s at top."
+  - name: Ring Bicep Curl
+    notes: "8-12 reps per set. RIR 0-1."
     sets:
-      - reps: to failure
       - reps: to failure
       - reps: to failure
       - reps: to failure
