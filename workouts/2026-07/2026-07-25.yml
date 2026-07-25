@@ -1,0 +1,35 @@
+date: 2026-07-25
+
+exercises:
+  - name: Weighted Chin Up
+    rir: 0
+    sets:
+      - reps: 10
+        load_kg: 8
+      - reps: 10
+        load_kg: 8
+      - reps: 10
+        load_kg: 8
+
+  - name: Weighted Pull Up
+    rir: 0
+    sets:
+      - reps: 8
+        load_kg: 12.5
+      - reps: 6
+        load_kg: 12.5
+
+  - name: Tuck Front Lever Raise
+    sets:
+      - reps: 10
+      - reps: 9
+      - reps: 9
+
+  - name: Australian Pull Up
+    notes: "Horizontal pulling volume. Squeeze hard for 2-3s."
+    rep_range: 8-12
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
