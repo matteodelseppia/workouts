@@ -1,0 +1,31 @@
+date: 2026-07-26
+
+exercises:
+  - name: Weighted Dip
+    notes: "Volume day. Stop 2 reps shy of failure."
+    sets:
+      - reps: 8
+        load_kg: 35
+      - reps: 8
+        load_kg: 35
+      - reps: 8
+        load_kg: 35
+
+  - name: Weighted Ring Dip
+    notes: "2s lock at the bottom."
+    sets:
+      - reps: 6
+        load_kg: 12.5
+      - reps: 6
+        load_kg: 12.5
+      - reps: 6
+        load_kg: 12.5
+
+  - name: Pseudo Planche Lean
+
+  - name: Bar Tricep Extensions
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
