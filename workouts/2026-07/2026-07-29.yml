@@ -1,0 +1,35 @@
+date: 2026-07-29
+
+exercises:
+  - name: Weighted Dip
+    notes: Primary push strength work.
+    rir: 0-1
+    sets:
+      - reps: 4
+        load_kg: 47
+      - reps: 4
+        load_kg: 47
+      - reps: 4
+        load_kg: 47
+      - reps: 4
+        load_kg: 47
+      - reps: 1
+        load_kg: 52.5
+
+  - name: Weighted Chin Up
+    rir: 0-1
+    sets:
+      - reps: 7
+        load_kg: 10
+      - reps: 7
+        load_kg: 10
+      - reps: 7
+        load_kg: 10
+
+  - name: Bar Tricep Extensions
+    notes: 10-12 reps per set.
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
