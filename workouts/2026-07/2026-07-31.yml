@@ -1,0 +1,29 @@
+date: 2026-07-25
+
+exercises:
+  - name: Weighted Ring Chin Up
+    rir: 0
+    sets:
+      - reps: 6
+        load_kg: 15
+      - reps: 6
+        load_kg: 15
+      - reps: 6
+        load_kg: 15
+      - reps: 7
+        load_kg: 10
+
+  - name: Tuck Front Lever Raise
+    sets:
+      - reps: 8
+      - reps: 8
+      - reps: 8
+
+  - name: Australian Pull Up
+    notes: "Horizontal pulling volume. Squeeze hard for 2-3s."
+    rep_range: 8-12
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
