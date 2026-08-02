@@ -1,0 +1,28 @@
+date: 2026-08-02
+
+exercises:
+  - name: Weighted Dip
+    notes: "Volume day."
+    sets:
+      - reps: 8
+        load_kg: 35
+      - reps: 8
+        load_kg: 35
+      - reps: 8
+        load_kg: 35
+
+  - name: Ring Dip
+    notes: "3s eccentric + 1s lock at bottom."
+    sets:
+      - reps: 8
+      - reps: 8
+      - reps: 6
+
+  - name: Pseudo Planche Lean
+
+  - name: Bar Tricep Extensions
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
