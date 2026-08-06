@@ -1,0 +1,13 @@
+date: 2026-08-06
+
+exercises:
+  - name: Weighted Dip
+    sets:
+      - reps: 3
+        load_kg: 50
+      - reps: 30
+        load_kg: 50
+      - reps: 3
+        load_kg: 50
+      - reps: 6
+        load_kg: 40
