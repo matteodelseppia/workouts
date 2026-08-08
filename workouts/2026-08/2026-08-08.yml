@@ -1,0 +1,33 @@
+date: 2026-08-08
+
+exercises:
+  - name: Arm assisted OAP
+    notes: Hand on wrist.
+    sets:
+      - reps: 2
+      - reps: 2
+      - reps: 2
+
+  - name: Weighted Ring Pull Up
+    sets:
+      - reps: 7
+        load_kg: 10
+      - reps: 7
+        load_kg: 10
+      - reps: 7
+        load_kg: 10
+    
+  - name: Advanced Tuck Front Lever Raise
+    sets:
+      - reps: 4
+      - reps: 4
+      - reps: 4
+      - reps: 4
+
+  - name: Australian Pull Up
+    rep_range: 10-15
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
