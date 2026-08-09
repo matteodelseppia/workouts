@@ -1,0 +1,33 @@
+date: 2026-08-09
+
+exercises:
+  - name: Weighted Dip
+    sets:
+      - reps: 3
+        load_kg: 50
+      - reps: 3
+        load_kg: 50
+      - reps: 3
+        load_kg: 50
+      - reps: 3
+        load_kg: 50
+      - reps: 3
+        load_kg: 50
+      - reps: 1
+        load_kg: 60
+
+
+  - name: Ring One Arm Push Up
+    sets:
+      - reps: 2
+      - reps: 2
+      - reps: 3
+      - reps: 3
+      - reps: 2
+
+  - name: Bar Tricep Extensions
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
