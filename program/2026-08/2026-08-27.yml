@@ -1,19 +1,22 @@
-# WEEK 8 - DAY 2 (Thu) - HEAVY DIP - TAPER
+# WEEK 8 - DAY 2 (Thu) - RING DIP (low-rep, joints reset)
 date: 2026-08-27
 
 exercises:
-  - name: Weighted Dip
-    notes: "TAPER. Fast doubles at 50, two crisp singles at 56. Nothing to failure."
+  - name: Weighted Ring Dip
+    notes: "Second ring session. Small load bump from Aug 20, reps still low. RIR 2-3."
     sets:
-      - reps: 2
-        load_kg: 50
-      - reps: 2
-        load_kg: 50
+      - reps: 3
+        load_kg: 22.5
+      - reps: 3
+        load_kg: 22.5
+      - reps: 3
+        load_kg: 22.5
+      - reps: 3
+        load_kg: 22.5
 
-  - name: Weighted Dip
-    notes: "Heavy single(s). Full lockout, controlled bottom."
+  - name: Bar Tricep Extensions
+    notes: "10-12 reps per set. RIR 2, not to failure."
     sets:
-      - reps: 1
-        load_kg: 56
-      - reps: 1
-        load_kg: 56
+      - reps: 10
+      - reps: 10
+      - reps: 10

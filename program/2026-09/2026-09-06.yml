@@ -2,15 +2,15 @@
 date: 2026-09-06
 
 exercises:
-  - name: Weighted Dip
+  - name: Weighted Ring Dip
     notes: "RIR 3. Last easy day before the block starts."
     sets:
-      - reps: 10
-        load_kg: 10
-      - reps: 10
-        load_kg: 10
-      - reps: 10
-        load_kg: 10
+      - reps: 3
+        load_kg: 17.5
+      - reps: 3
+        load_kg: 17.5
+      - reps: 3
+        load_kg: 17.5
 
   - name: Weighted Pull Up
     notes: "RIR 3."

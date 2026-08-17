@@ -1,37 +1,25 @@
-# FINAL WEEK - DAY 3 (Sat) - PUSH VOLUME
+# RINGS FINAL WEEK - DAY 3 (Sat) - PUSH, EASING OUT
 date: 2026-10-31
 
 exercises:
-  - name: Weighted Dip
-    notes: "RIR 2."
-    sets:
-      - reps: 12
-        load_kg: 27.5
-      - reps: 12
-        load_kg: 27.5
-      - reps: 12
-        load_kg: 27.5
-
   - name: Weighted Ring Dip
-    notes: "RIR 1-2."
+    notes: "Last rings-only session before bar dips resume Nov 3. Easy, RIR 3+."
     sets:
-      - reps: 12
-        load_kg: 12.5
-      - reps: 12
-        load_kg: 12.5
-      - reps: 12
-        load_kg: 12.5
+      - reps: 4
+        load_kg: 20
+      - reps: 4
+        load_kg: 20
+      - reps: 4
+        load_kg: 20
 
   - name: Deep Ring Push Up
-    notes: "RIR 0-1."
+    notes: "RIR 2."
     sets:
-      - reps: to failure
-      - reps: to failure
-      - reps: to failure
+      - reps: 10
+      - reps: 10
 
   - name: Bar Tricep Extensions
-    notes: "15-20 reps. RIR 0."
+    notes: "10-12 reps. RIR 2."
     sets:
-      - reps: to failure
-      - reps: to failure
-      - reps: to failure
+      - reps: 10
+      - reps: 10

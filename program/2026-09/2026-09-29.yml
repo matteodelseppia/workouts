@@ -2,13 +2,13 @@
 date: 2026-09-29
 
 exercises:
-  - name: Weighted Dip
-    notes: "Everything this week RIR 3-4. Half volume, ~60% load. Growth happens now."
+  - name: Weighted Ring Dip
+    notes: "Everything this week RIR 3-4. Half volume, ~60% load."
     sets:
-      - reps: 8
-        load_kg: 20
-      - reps: 8
-        load_kg: 20
+      - reps: 3
+        load_kg: 17.5
+      - reps: 3
+        load_kg: 17.5
 
   - name: Deep Ring Push Up
     notes: "Easy tempo."

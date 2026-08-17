@@ -1,9 +1,35 @@
-# WEEK 8 - DAY 3 (Sat) - PRE-COMP PRIMER - COMP TUE SEPT 1 (DIP ONLY)
+# WEEK 8 - DAY 3 (Sat) - PULL VOLUME
 date: 2026-08-29
 
 exercises:
-  - name: Dip
-    notes: "Bodyweight only. Fast reps, full ROM. Then rest until Sept 1. Pulling is full rest today — no pull-up primer, pull-ups aren't part of the Sept 1 comp."
+  - name: Weighted Chin Up
+    notes: "Sept 1 comp dropped — normal volume day, continuing the wave."
     sets:
-      - reps: 5
-      - reps: 5
+      - reps: 12
+        load_kg: 10
+      - reps: 12
+        load_kg: 10
+      - reps: 12
+        load_kg: 10
+
+  - name: Weighted Pull Up
+    notes: "Secondary. Fixed reps, stop at RIR 2 — don't chase failure."
+    sets:
+      - reps: 8
+        load_kg: 15
+      - reps: 8
+        load_kg: 15
+
+  - name: Australian Pull Up
+    notes: "1-2s squeeze at top."
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
+
+  - name: Ring Face Pull
+    notes: "12-15 reps. Shoulder health."
+    sets:
+      - reps: to failure
+      - reps: to failure
+      - reps: to failure
