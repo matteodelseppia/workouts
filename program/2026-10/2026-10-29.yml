@@ -13,18 +13,18 @@ exercises:
         load_kg: 22.5
 
   - name: Advanced Tuck Front Lever Raise
-    notes: "RIR 1."
+    notes: "RIR 1. One session short of the Nov 1 goal (3x8) — this is 3x7."
     sets:
-      - reps: 5
-      - reps: 5
-      - reps: 5
+      - reps: 7
+      - reps: 7
+      - reps: 7
 
-  - name: Archer Chin Up
-    notes: "RIR 0-1."
+  - name: Archer Pull Up
+    notes: "Goal attempt — 5/side. If it's not there yet, Nov 1 is the real deadline, not today."
     sets:
-      - reps: 3/side
-      - reps: 3/side
-      - reps: 3/side
+      - reps: 5/side
+      - reps: 5/side
+      - reps: 5/side
 
   - name: Ring Bicep Curl
     notes: "8-12 reps. RIR 0-1."

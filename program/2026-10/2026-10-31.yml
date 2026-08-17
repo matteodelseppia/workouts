@@ -1,16 +1,16 @@
-# RINGS FINAL WEEK - DAY 3 (Sat) - PUSH, EASING OUT
+# RINGS FINAL WEEK - DAY 3 (Sat) - PUSH CONFIRMATION
 date: 2026-10-31
 
 exercises:
   - name: Weighted Ring Dip
-    notes: "Last rings-only session before bar dips resume Nov 3. Easy, RIR 3+."
+    notes: "Confirming the new number, not chasing another max. RIR 2-3."
     sets:
-      - reps: 4
-        load_kg: 20
-      - reps: 4
-        load_kg: 20
-      - reps: 4
-        load_kg: 20
+      - reps: 3
+        load_kg: 30
+      - reps: 3
+        load_kg: 30
+      - reps: 3
+        load_kg: 30
 
   - name: Deep Ring Push Up
     notes: "RIR 2."

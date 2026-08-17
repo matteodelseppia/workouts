@@ -1,9 +1,23 @@
-# FINAL WEEK - DAY 4 (Sun) - PULL VOLUME - BLOCK ENDS (rings/archer/front lever)
+# FINAL WEEK - DAY 4 (Sun) - PULL GOAL DAY - BLOCK ENDS
 date: 2026-11-01
 
 exercises:
+  - name: Advanced Tuck Front Lever Raise
+    notes: "GOAL DAY — sustain 3x8. Warm up properly, then go for all three sets."
+    sets:
+      - reps: 8
+      - reps: 8
+      - reps: 8
+
+  - name: Archer Pull Up
+    notes: "GOAL DAY — 5 reps per side, strict. Rest as needed between sides."
+    sets:
+      - reps: 5/side
+      - reps: 5/side
+      - reps: 5/side
+
   - name: Ring Weighted Pull Up
-    notes: "RIR 2. Last session of the rings block."
+    notes: "Light. RIR 2-3 — save the effort for the skill work above."
     sets:
       - reps: 6
         load_kg: 17.5
@@ -11,20 +25,6 @@ exercises:
         load_kg: 17.5
       - reps: 6
         load_kg: 17.5
-
-  - name: Archer Australian Chin Up
-    notes: "RIR 0-1."
-    sets:
-      - reps: 8/side
-      - reps: 8/side
-      - reps: 8/side
-
-  - name: Tuck Front Lever Raise
-    notes: "RIR 1."
-    sets:
-      - reps: 6
-      - reps: 6
-      - reps: 6
 
   - name: Ring Bicep Curl
     notes: "12-15 reps. RIR 0."

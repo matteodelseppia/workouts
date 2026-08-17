@@ -1,18 +1,22 @@
-# RINGS FINAL WEEK - DAY 1 (Tue) - PUSH, EASING OUT
+# RINGS FINAL WEEK - DAY 1 (Tue) - PUSH GOAL DAY
 date: 2026-10-27
 
 exercises:
   - name: Weighted Ring Dip
-    notes: "Block close-out. No rep-max testing — this block was about joints, not chasing a number. Drop back down, RIR 3."
+    notes: "GOAL DAY — 35kg x3. Warm up thoroughly and build to it; take the backoffs only after the top set, win or not. If 35 only moves for a clean double, that's still real — Oct 31 and the Nov 3 bar reintroduction are both still ahead."
     sets:
       - reps: 3
+        load_kg: 20
+      - reps: 2
         load_kg: 27.5
+      - reps: 1
+        load_kg: 32.5
       - reps: 3
-        load_kg: 27.5
+        load_kg: 35
       - reps: 3
-        load_kg: 27.5
+        load_kg: 28
       - reps: 3
-        load_kg: 27.5
+        load_kg: 28
 
   - name: Deep Ring Push Up
     notes: "RIR 2."

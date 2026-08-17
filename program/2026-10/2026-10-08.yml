@@ -15,19 +15,19 @@ exercises:
         load_kg: 17.5
 
   - name: Advanced Tuck Front Lever Raise
-    notes: "RIR 1-2."
+    notes: "RIR 1-2. Ramping toward 3x8 by Nov 1."
     sets:
-      - reps: 4
-      - reps: 4
-      - reps: 4
+      - reps: 5
+      - reps: 5
+      - reps: 5
 
-  - name: Archer Chin Up
-    notes: "Skill work, crisp reps."
+  - name: Archer Pull Up
+    notes: "Switching from Archer Chin Up to the strict pronated version — first session, expect it to feel much harder for the same rep count. Goal is 5/side by Nov 1."
     sets:
-      - reps: 3/side
-      - reps: 3/side
-      - reps: 3/side
-      - reps: 3/side
+      - reps: 2/side
+      - reps: 2/side
+      - reps: 2/side
+      - reps: 2/side
 
   - name: Ring Bicep Curl
     notes: "8-12 reps per set. RIR 0-1."

@@ -3,16 +3,16 @@ date: 2026-10-24
 
 exercises:
   - name: Weighted Ring Dip
-    notes: "Same as Oct 17. RIR 3."
+    notes: "Small bump from Oct 17, keeping pace with Tuesday's jump. RIR 3."
     sets:
       - reps: 4
-        load_kg: 25
+        load_kg: 27.5
       - reps: 4
-        load_kg: 25
+        load_kg: 27.5
       - reps: 4
-        load_kg: 25
+        load_kg: 27.5
       - reps: 4
-        load_kg: 25
+        load_kg: 27.5
 
   - name: Deep Ring Push Up
     notes: "RIR 2."

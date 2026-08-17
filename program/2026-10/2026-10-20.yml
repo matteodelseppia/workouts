@@ -3,18 +3,16 @@ date: 2026-10-20
 
 exercises:
   - name: Weighted Ring Dip
-    notes: "Same load as Oct 13, add a rep. Block ceiling — no further load jumps this cycle. RIR 2-3."
+    notes: "Bigger jump, reps back to 3 — priming for the Oct 27 test at 35kg. RIR 2-3, no grinding."
     sets:
-      - reps: 4
-        load_kg: 30
-      - reps: 4
-        load_kg: 30
-      - reps: 4
-        load_kg: 30
-      - reps: 4
-        load_kg: 30
-      - reps: 4
-        load_kg: 30
+      - reps: 3
+        load_kg: 32
+      - reps: 3
+        load_kg: 32
+      - reps: 3
+        load_kg: 32
+      - reps: 3
+        load_kg: 32
 
   - name: Deep Ring Push Up
     notes: "As deep as shoulders allow. RIR 2."

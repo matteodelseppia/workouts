@@ -3,18 +3,18 @@ date: 2026-10-13
 
 exercises:
   - name: Weighted Ring Dip
-    notes: "Load bump toward the block's ceiling (~30kg). RIR 2-3, no grinding."
+    notes: "Goal is 35kg x3 by Oct 27 — this week adds a rep at the same load. RIR 2-3, no grinding."
     sets:
-      - reps: 3
-        load_kg: 30
-      - reps: 3
-        load_kg: 30
-      - reps: 3
-        load_kg: 30
-      - reps: 3
-        load_kg: 30
-      - reps: 3
-        load_kg: 30
+      - reps: 4
+        load_kg: 28
+      - reps: 4
+        load_kg: 28
+      - reps: 4
+        load_kg: 28
+      - reps: 4
+        load_kg: 28
+      - reps: 4
+        load_kg: 28
 
   - name: Deep Ring Push Up
     notes: "As deep as shoulders allow. RIR 2."
