@@ -12,15 +12,15 @@ exercises:
       - reps: 3
         load_kg: 15
 
-  - name: Weighted Pull Up
+  - name: Ring Weighted Pull Up
     notes: "RIR 3-4. Just move."
     sets:
-      - reps: 6
-        load_kg: 5
-      - reps: 6
-        load_kg: 5
-      - reps: 6
-        load_kg: 5
+      - reps: 5
+        load_kg: 10
+      - reps: 5
+        load_kg: 10
+      - reps: 5
+        load_kg: 10
 
   - name: Deep Ring Push Up
     notes: "Easy tempo, full range."
@@ -28,8 +28,8 @@ exercises:
       - reps: 10
       - reps: 10
 
-  - name: Australian Pull Up
+  - name: Archer Australian Chin Up
     notes: "Easy squeeze, no failure."
     sets:
-      - reps: 12
-      - reps: 12
+      - reps: 6/side
+      - reps: 6/side

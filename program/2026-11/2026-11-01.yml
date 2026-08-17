@@ -1,31 +1,30 @@
-# FINAL WEEK - DAY 4 (Sun) - PULL VOLUME - BLOCK ENDS
+# FINAL WEEK - DAY 4 (Sun) - PULL VOLUME - BLOCK ENDS (rings/archer/front lever)
 date: 2026-11-01
 
 exercises:
-  - name: Weighted Pull Up
-    notes: "RIR 2. Last session of the block."
+  - name: Ring Weighted Pull Up
+    notes: "RIR 2. Last session of the rings block."
     sets:
-      - reps: 12
-        load_kg: 12.5
-      - reps: 12
-        load_kg: 12.5
-      - reps: 12
-        load_kg: 12.5
+      - reps: 6
+        load_kg: 17.5
+      - reps: 6
+        load_kg: 17.5
+      - reps: 6
+        load_kg: 17.5
 
-  - name: Australian Pull Up
+  - name: Archer Australian Chin Up
     notes: "RIR 0-1."
     sets:
-      - reps: to failure
-      - reps: to failure
-      - reps: to failure
-      - reps: to failure
+      - reps: 8/side
+      - reps: 8/side
+      - reps: 8/side
 
   - name: Tuck Front Lever Raise
     notes: "RIR 1."
     sets:
-      - reps: 8
-      - reps: 8
-      - reps: 8
+      - reps: 6
+      - reps: 6
+      - reps: 6
 
   - name: Ring Bicep Curl
     notes: "12-15 reps. RIR 0."

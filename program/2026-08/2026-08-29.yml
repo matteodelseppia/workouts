@@ -1,31 +1,30 @@
-# WEEK 8 - DAY 3 (Sat) - PULL VOLUME
+# WEEK 8 - DAY 3 (Sat) - PULL VOLUME (rings/archer/front lever)
 date: 2026-08-29
 
 exercises:
-  - name: Weighted Chin Up
-    notes: "Sept 1 comp dropped — normal volume day, continuing the wave."
+  - name: Ring Weighted Pull Up
+    notes: "Small bump from Aug 22. RIR 2."
     sets:
-      - reps: 12
-        load_kg: 10
-      - reps: 12
-        load_kg: 10
-      - reps: 12
-        load_kg: 10
+      - reps: 5
+        load_kg: 20
+      - reps: 5
+        load_kg: 20
+      - reps: 5
+        load_kg: 20
 
-  - name: Weighted Pull Up
-    notes: "Secondary. Fixed reps, stop at RIR 2 — don't chase failure."
+  - name: Archer Australian Chin Up
+    notes: "1-2s squeeze at full extension."
     sets:
-      - reps: 8
-        load_kg: 15
-      - reps: 8
-        load_kg: 15
+      - reps: 6/side
+      - reps: 6/side
+      - reps: 6/side
 
-  - name: Australian Pull Up
-    notes: "1-2s squeeze at top."
+  - name: Tuck Front Lever Raise
+    notes: "RIR 2."
     sets:
-      - reps: to failure
-      - reps: to failure
-      - reps: to failure
+      - reps: 6
+      - reps: 6
+      - reps: 6
 
   - name: Ring Face Pull
     notes: "12-15 reps. Shoulder health."

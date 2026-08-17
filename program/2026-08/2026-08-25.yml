@@ -1,25 +1,33 @@
-# WEEK 8 - DAY 1 (Tue) - PULL PRIMARY
+# WEEK 8 - DAY 1 (Tue) - PULL PRIMARY (rings/archer/front lever)
 date: 2026-08-25
 
 exercises:
-  - name: Weighted Chin Up
-    notes: "Sept 1 comp is dropped — pull side continues its normal wave, no taper. Target 11 reps, same load as Aug 18."
+  - name: Ring Weighted Pull Up
+    notes: "Same top load as Aug 18, heavier backoff. RIR 2."
     sets:
-      - reps: 11
-        load_kg: 12.5
-      - reps: 11
-        load_kg: 12.5
-      - reps: 11
-        load_kg: 12.5
-      - reps: 11
-        load_kg: 12.5
+      - reps: 3
+        load_kg: 22.5
+      - reps: 3
+        load_kg: 22.5
+      - reps: 3
+        load_kg: 22.5
+      - reps: 7
+        load_kg: 15
 
-  - name: Tuck Front Lever Raise
-    notes: "Skill work. Controlled eccentric."
+  - name: Advanced Tuck Front Lever Raise
+    notes: "RIR 1-2."
     sets:
-      - reps: 8
-      - reps: 8
-      - reps: 8
+      - reps: 3
+      - reps: 3
+      - reps: 3
+
+  - name: Archer Chin Up
+    notes: "Skill work, crisp reps."
+    sets:
+      - reps: 3/side
+      - reps: 3/side
+      - reps: 3/side
+      - reps: 3/side
 
   - name: Ring Bicep Curl
     notes: "8-12 reps per set. RIR 0-1."

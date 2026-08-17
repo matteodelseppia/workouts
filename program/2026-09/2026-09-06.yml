@@ -12,21 +12,21 @@ exercises:
       - reps: 3
         load_kg: 17.5
 
-  - name: Weighted Pull Up
+  - name: Ring Weighted Pull Up
     notes: "RIR 3."
     sets:
-      - reps: 8
-        load_kg: 5
-      - reps: 8
-        load_kg: 5
-      - reps: 8
-        load_kg: 5
+      - reps: 5
+        load_kg: 12.5
+      - reps: 5
+        load_kg: 12.5
+      - reps: 5
+        load_kg: 12.5
 
-  - name: Tuck Front Lever Raise
-    notes: "Crisp, well short of failure."
+  - name: Advanced Tuck Front Lever Raise
+    notes: "Crisp, well short of failure. RIR 3."
     sets:
-      - reps: 6
-      - reps: 6
+      - reps: 3
+      - reps: 3
 
   - name: Ring Bicep Curl
     notes: "Light pump work."

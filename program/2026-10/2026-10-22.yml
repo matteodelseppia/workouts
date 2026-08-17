@@ -1,34 +1,33 @@
-# HYPERTROPHY WEEK 6 - DAY 2 (Thu) - PULL PRIMARY
+# RINGS WEEK 6 - DAY 2 (Thu) - PULL PRIMARY (rings/archer/front lever)
 date: 2026-10-22
 
 exercises:
-  - name: Weighted Pull Up
-    notes: "Double progression: target 12 reps, stop at RIR 1-2. Drop 2.5kg rather than grind."
+  - name: Ring Weighted Pull Up
+    notes: "Same load as Oct 15, add a rep. Block ceiling — no further load jumps this cycle. RIR 2."
     sets:
-      - reps: 12
-        load_kg: 17.5
-      - reps: 12
-        load_kg: 17.5
-      - reps: 12
-        load_kg: 17.5
-      - reps: 12
-        load_kg: 17.5
-      - reps: 12
+      - reps: 4
+        load_kg: 30
+      - reps: 4
+        load_kg: 30
+      - reps: 4
+        load_kg: 30
+      - reps: 6
         load_kg: 17.5
 
-  - name: Tuck Front Lever Raise
-    notes: "Quality first. RIR 1."
+  - name: Advanced Tuck Front Lever Raise
+    notes: "RIR 1-2."
     sets:
-      - reps: 8
-      - reps: 8
-      - reps: 8
+      - reps: 5
+      - reps: 5
+      - reps: 5
 
-  - name: Australian Pull Up
-    notes: "1-2s squeeze at the top. RIR 0-1."
+  - name: Archer Chin Up
+    notes: "Skill work, crisp reps."
     sets:
-      - reps: to failure
-      - reps: to failure
-      - reps: to failure
+      - reps: 3/side
+      - reps: 3/side
+      - reps: 3/side
+      - reps: 3/side
 
   - name: Ring Bicep Curl
     notes: "8-12 reps per set. RIR 0-1."

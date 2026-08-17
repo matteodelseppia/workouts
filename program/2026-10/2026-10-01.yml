@@ -2,19 +2,19 @@
 date: 2026-10-01
 
 exercises:
-  - name: Weighted Pull Up
+  - name: Ring Weighted Pull Up
     notes: "RIR 3-4."
     sets:
-      - reps: 8
-        load_kg: 7.5
-      - reps: 8
-        load_kg: 7.5
+      - reps: 3
+        load_kg: 17.5
+      - reps: 3
+        load_kg: 17.5
 
-  - name: Australian Pull Up
+  - name: Archer Australian Chin Up
     notes: "Easy squeeze."
     sets:
-      - reps: 12
-      - reps: 12
+      - reps: 6/side
+      - reps: 6/side
 
   - name: Ring Bicep Curl
     notes: "Light, far from failure."

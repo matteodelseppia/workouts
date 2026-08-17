@@ -1,31 +1,30 @@
-# HYPERTROPHY WEEK 6 - DAY 4 (Sun) - PULL VOLUME
+# RINGS WEEK 6 - DAY 4 (Sun) - PULL VOLUME (rings/archer/front lever)
 date: 2026-10-25
 
 exercises:
-  - name: Weighted Pull Up
-    notes: "Lighter volume work. Target 12 reps at RIR 2."
+  - name: Ring Weighted Pull Up
+    notes: "Same as Oct 18. RIR 2."
     sets:
-      - reps: 12
-        load_kg: 12.5
-      - reps: 12
-        load_kg: 12.5
-      - reps: 12
-        load_kg: 12.5
+      - reps: 6
+        load_kg: 22.5
+      - reps: 6
+        load_kg: 22.5
+      - reps: 6
+        load_kg: 22.5
 
-  - name: Australian Pull Up
-    notes: "1-2s squeeze at the top. RIR 0-1."
+  - name: Archer Australian Chin Up
+    notes: "1-2s squeeze at full extension."
     sets:
-      - reps: to failure
-      - reps: to failure
-      - reps: to failure
-      - reps: to failure
+      - reps: 8/side
+      - reps: 8/side
+      - reps: 8/side
 
   - name: Tuck Front Lever Raise
-    notes: "8-10 reps. RIR 1."
+    notes: "RIR 2."
     sets:
-      - reps: 8
-      - reps: 8
-      - reps: 8
+      - reps: 6
+      - reps: 6
+      - reps: 6
 
   - name: Ring Bicep Curl
     notes: "12-15 reps per set. RIR 0."
