@@ -1,0 +1,33 @@
+date: 2026-08-17
+
+exercises:
+  - name: Advanced Tuck Front Lever Raise
+    rir: 1-2
+    sets:
+      - reps: 3
+      - reps: 3
+      - reps: 3
+
+  - name: Archer Chin Up
+    sets:
+      - reps: 2/side
+      - reps: 2/side
+      - reps: 2/side
+      - reps: 2/side
+  
+  - name: Ring Weighted Pull Up
+    sets:
+      - reps: 3
+        load_kg: 22.5
+      - reps: 3
+        load_kg: 22.5
+      - reps: 3
+        load_kg: 22.5
+      - reps: 7
+        load_kg: 12.5
+
+  - name: Archer Australian Chin Up
+    sets:
+      - reps: 6/side
+      - reps: 6/side
+      - reps: 6/side
