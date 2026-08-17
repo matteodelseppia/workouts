@@ -1,36 +1,35 @@
-# WEEK 7 - DAY 2 (Thu) - HEAVY DIP
+# WK1 THU - PUSH TECHNICAL (before Fri rest)
 date: 2026-08-20
 
 exercises:
-  - name: Weighted Dip
-    notes: "Heaviest week. 3x3@54, one single at 58. Abort single if triples grind."
+  - name: Weighted Ring Dip
+    notes: "Primary top sets, lighter than Tuesday. Quality focus, RIR 3."
     sets:
-      - reps: 3
-        load_kg: 54
-      - reps: 3
-        load_kg: 54
-      - reps: 3
-        load_kg: 54
-
-  - name: Weighted Dip
-    notes: "Heavy single(s). Full lockout, controlled bottom."
-    sets:
-      - reps: 1
-        load_kg: 58
+      - reps: 4
+        load_kg: 12.5
+      - reps: 4
+        load_kg: 12.5
+      - reps: 4
+        load_kg: 12.5
+      - reps: 4
+        load_kg: 12.5
 
   - name: Weighted Ring Dip
-    notes: "Stability back-off."
+    notes: "Backoff set."
     sets:
       - reps: 6
-        load_kg: 15
-      - reps: 6
-        load_kg: 15
-      - reps: 6
-        load_kg: 15
+        load_kg: 10
 
-  - name: Bar Tricep Extensions
-    notes: "10-12 reps per set."
+  - name: Advanced Tuck Front Lever Raise
+    notes: "Secondary. RIR 1-2."
     sets:
-      - reps: to failure
-      - reps: to failure
-      - reps: to failure
+      - reps: 3
+      - reps: 3
+      - reps: 3
+
+  - name: Front Lever ISO Hold
+    notes: "Tertiary. Advanced tuck position, hold for time."
+    sets:
+      - reps: 10s
+      - reps: 10s
+      - reps: 10s

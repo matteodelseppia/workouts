@@ -1,19 +1,35 @@
-# WEEK 8 - DAY 2 (Thu) - HEAVY DIP - TAPER
+# WK2 THU - PUSH TECHNICAL
 date: 2026-08-27
 
 exercises:
-  - name: Weighted Dip
-    notes: "TAPER. Fast doubles at 50, two crisp singles at 56. Nothing to failure."
+  - name: Weighted Ring Dip
+    notes: "Primary top sets, lighter than Tuesday. Quality focus, RIR 3."
     sets:
-      - reps: 2
-        load_kg: 50
-      - reps: 2
-        load_kg: 50
+      - reps: 4
+        load_kg: 15
+      - reps: 4
+        load_kg: 15
+      - reps: 4
+        load_kg: 15
+      - reps: 4
+        load_kg: 15
 
-  - name: Weighted Dip
-    notes: "Heavy single(s). Full lockout, controlled bottom."
+  - name: Weighted Ring Dip
+    notes: "Backoff set."
     sets:
-      - reps: 1
-        load_kg: 56
-      - reps: 1
-        load_kg: 56
+      - reps: 6
+        load_kg: 12.5
+
+  - name: Advanced Tuck Front Lever Raise
+    notes: "Secondary. RIR 1-2."
+    sets:
+      - reps: 3
+      - reps: 3
+      - reps: 3
+
+  - name: Front Lever ISO Hold
+    notes: "Tertiary. Hold for time."
+    sets:
+      - reps: 10s
+      - reps: 10s
+      - reps: 10s

@@ -1,41 +1,29 @@
-# TRANSITION - DAY 2 (Sun) - LIGHT FULL UPPER
+# WK3 SUN - PULL TECHNICAL
 date: 2026-09-06
 
 exercises:
-  - name: Weighted Dip
-    notes: "RIR 3. Last easy day before the block starts."
+  - name: Archer Chin Up
+    notes: "Primary top sets, lighter than Saturday. Quality focus."
     sets:
-      - reps: 10
-        load_kg: 10
-      - reps: 10
-        load_kg: 10
-      - reps: 10
-        load_kg: 10
+      - reps: 3/side
+      - reps: 3/side
+      - reps: 3/side
 
-  - name: Weighted Pull Up
-    notes: "RIR 3."
+  - name: Archer Chin Up
+    notes: "Backoff set, higher reps."
     sets:
-      - reps: 8
-        load_kg: 5
-      - reps: 8
-        load_kg: 5
-      - reps: 8
-        load_kg: 5
+      - reps: 6/side
 
-  - name: Tuck Front Lever Raise
-    notes: "Crisp, well short of failure."
+  - name: Ring One Arm Push Up
+    notes: "Secondary."
     sets:
-      - reps: 6
-      - reps: 6
+      - reps: 2/side
+      - reps: 2/side
+      - reps: 2/side
 
-  - name: Ring Bicep Curl
-    notes: "Light pump work."
+  - name: Planche Lean
+    notes: "Tertiary. Hold for time."
     sets:
-      - reps: 10
-      - reps: 10
-
-  - name: Bar Tricep Extensions
-    notes: "Light pump work."
-    sets:
-      - reps: 12
-      - reps: 12
+      - reps: 12s
+      - reps: 12s
+      - reps: 12s

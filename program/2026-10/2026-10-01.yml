@@ -1,23 +1,29 @@
-# DELOAD - DAY 2 (Thu) - LIGHT PULL
+# WK7 THU - PUSH, DELOAD
 date: 2026-10-01
 
 exercises:
-  - name: Weighted Pull Up
-    notes: "RIR 3-4."
+  - name: Weighted Ring Dip
+    notes: "Deload week. Half volume, ~60% load, RIR 3-4."
     sets:
-      - reps: 8
-        load_kg: 7.5
-      - reps: 8
-        load_kg: 7.5
+      - reps: 3
+        load_kg: 17.5
+      - reps: 3
+        load_kg: 17.5
 
-  - name: Australian Pull Up
-    notes: "Easy squeeze."
+  - name: Weighted Ring Dip
+    notes: "Backoff set."
     sets:
-      - reps: 12
-      - reps: 12
+      - reps: 5
+        load_kg: 12.5
 
-  - name: Ring Bicep Curl
-    notes: "Light, far from failure."
+  - name: Advanced Tuck Front Lever Raise
+    notes: "Secondary. RIR 3, easy."
     sets:
-      - reps: 10
-      - reps: 10
+      - reps: 4
+      - reps: 4
+
+  - name: Front Lever ISO Hold
+    notes: "Tertiary. Hold for time."
+    sets:
+      - reps: 10s
+      - reps: 10s

@@ -1,37 +1,33 @@
-# FINAL WEEK - DAY 1 (Tue) - PUSH REP-MAX
+# WK11 TUE - PUSH GOAL DAY
 date: 2026-10-27
 
 exercises:
-  - name: Weighted Dip
-    notes: "Block close-out: first set AMRAP at RIR 1 (cap at 15). Log the number - it is the block's progress marker vs 4x8 in week 4."
-    sets:
-      - reps: AMRAP
-        load_kg: 35
-      - reps: 10
-        load_kg: 35
-      - reps: 10
-        load_kg: 35
-
   - name: Weighted Ring Dip
-    notes: "RIR 1-2."
+    notes: "GOAL DAY — 35kg x3. Warm up thoroughly and build to it; take the backoffs only after the top set, win or not."
     sets:
-      - reps: 10
-        load_kg: 17.5
-      - reps: 10
-        load_kg: 17.5
-      - reps: 10
-        load_kg: 17.5
+      - reps: 3
+        load_kg: 20
+      - reps: 2
+        load_kg: 27.5
+      - reps: 1
+        load_kg: 32.5
+      - reps: 3
+        load_kg: 35
+      - reps: 3
+        load_kg: 28
+      - reps: 3
+        load_kg: 28
 
-  - name: Deep Ring Push Up
-    notes: "RIR 0-1."
+  - name: Advanced Tuck Front Lever Raise
+    notes: "Secondary. One session short of the Oct 29/31 goal (3x8) — this is 3x7."
     sets:
-      - reps: to failure
-      - reps: to failure
-      - reps: to failure
+      - reps: 7
+      - reps: 7
+      - reps: 7
 
-  - name: Bar Tricep Extensions
-    notes: "12-15 reps. RIR 0."
+  - name: Archer Australian Chin Up
+    notes: "Tertiary."
     sets:
-      - reps: to failure
-      - reps: to failure
-      - reps: to failure
+      - reps: 8/side
+      - reps: 8/side
+      - reps: 8/side

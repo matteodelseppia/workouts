@@ -1,37 +1,31 @@
-# HYPERTROPHY WEEK 4 - DAY 3 (Sat) - PUSH VOLUME
+# WK8 SAT - PULL HARD (switch to Archer Pull Up)
 date: 2026-10-10
 
 exercises:
-  - name: Weighted Dip
-    notes: "Lighter volume work. Target 12 reps at RIR 2."
+  - name: Archer Pull Up
+    notes: "Primary top sets. Switching from Archer Chin Up to the strict pronated version — expect it to feel much harder for the same rep count. Goal is 5/side by Nov 1."
     sets:
-      - reps: 12
-        load_kg: 27.5
-      - reps: 12
-        load_kg: 27.5
-      - reps: 12
-        load_kg: 27.5
+      - reps: 2/side
+      - reps: 2/side
+      - reps: 2/side
+      - reps: 2/side
 
-  - name: Weighted Ring Dip
-    notes: "RIR 1-2."
+  - name: Band-Assisted Archer Pull Up
+    notes: "Backoff — high-quality volume with band assistance. Use a band that lets every rep move well; lighten it as reps get easier."
     sets:
-      - reps: 12
-        load_kg: 12.5
-      - reps: 12
-        load_kg: 12.5
-      - reps: 12
-        load_kg: 12.5
+      - reps: 6/side
+      - reps: 6/side
 
-  - name: Deep Ring Push Up
-    notes: "RIR 0-1. Chase the pump, keep depth honest."
+  - name: Ring One Arm Push Up
+    notes: "Secondary."
     sets:
-      - reps: to failure
-      - reps: to failure
-      - reps: to failure
+      - reps: 4/side
+      - reps: 4/side
+      - reps: 4/side
 
   - name: Bar Tricep Extensions
-    notes: "15-20 reps per set. RIR 0."
+    notes: "Tertiary. 10-12 reps."
     sets:
-      - reps: to failure
-      - reps: to failure
-      - reps: to failure
+      - reps: 12
+      - reps: 12
+      - reps: 12

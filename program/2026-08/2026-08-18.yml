@@ -1,39 +1,35 @@
-# WEEK 7 - DAY 1 (Tue) - PULL PRIMARY - HYPERTROPHY WAVE 2
+# WK1 TUE - PUSH HARD (after Mon rest)
 date: 2026-08-18
 
 exercises:
-  - name: Weighted Chin Up
-    notes: "Target 10 reps, same load as Aug 11. If all sets hit 10 cleanly, this is the last step of the wave before the next load jump."
+  - name: Weighted Ring Dip
+    notes: "Primary top sets. RIR 2-3, no grinding. Building toward 35kg x3 by Oct 27."
     sets:
-      - reps: 10
-        load_kg: 12.5
-      - reps: 10
-        load_kg: 12.5
-      - reps: 10
-        load_kg: 12.5
-      - reps: 10
-        load_kg: 12.5
+      - reps: 3
+        load_kg: 20
+      - reps: 3
+        load_kg: 20
+      - reps: 3
+        load_kg: 20
+      - reps: 3
+        load_kg: 20
 
-  - name: Weighted Pull Up
-    notes: "Secondary. Fixed reps, don't push toward failure."
+  - name: Weighted Ring Dip
+    notes: "Backoff set."
     sets:
-      - reps: 6
-        load_kg: 17.5
-      - reps: 6
-        load_kg: 17.5
-      - reps: 6
-        load_kg: 17.5
+      - reps: 5
+        load_kg: 15
 
-  - name: Tuck Front Lever Raise
-    notes: "Skill work. Controlled eccentric."
+  - name: Advanced Tuck Front Lever Raise
+    notes: "Secondary. RIR 1-2. Ramping toward 3x8 by Oct 27."
     sets:
-      - reps: 8
-      - reps: 8
-      - reps: 8
+      - reps: 3
+      - reps: 3
+      - reps: 3
 
-  - name: Ring Bicep Curl
-    notes: "8-12 reps per set. RIR 0-1."
+  - name: Archer Australian Chin Up
+    notes: "Tertiary."
     sets:
-      - reps: to failure
-      - reps: to failure
-      - reps: to failure
+      - reps: 6/side
+      - reps: 6/side
+      - reps: 6/side

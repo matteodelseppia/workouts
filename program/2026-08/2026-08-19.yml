@@ -1,0 +1,33 @@
+# WK1 WED - PULL MODERATE
+date: 2026-08-19
+
+exercises:
+  - name: Ring Weighted Pull Up
+    notes: "Primary top sets. RIR 2-3."
+    sets:
+      - reps: 3
+        load_kg: 15
+      - reps: 3
+        load_kg: 15
+      - reps: 3
+        load_kg: 15
+
+  - name: Ring Weighted Pull Up
+    notes: "Backoff set."
+    sets:
+      - reps: 6
+        load_kg: 10
+
+  - name: Ring One Arm Push Up
+    notes: "Secondary."
+    sets:
+      - reps: 2/side
+      - reps: 2/side
+      - reps: 2/side
+
+  - name: Planche Lean
+    notes: "Tertiary. Hold for time."
+    sets:
+      - reps: 10s
+      - reps: 10s
+      - reps: 10s

@@ -1,37 +1,30 @@
-# HYPERTROPHY WEEK 1 - DAY 3 (Sat) - PUSH VOLUME
+# WK4 SAT - PULL HARD
 date: 2026-09-12
 
 exercises:
-  - name: Weighted Dip
-    notes: "Lighter volume work. Target 12 reps at RIR 2."
+  - name: Archer Chin Up
+    notes: "Primary top sets. Crisp reps, RIR 1-2."
     sets:
-      - reps: 12
-        load_kg: 25
-      - reps: 12
-        load_kg: 25
-      - reps: 12
-        load_kg: 25
+      - reps: 4/side
+      - reps: 4/side
+      - reps: 4/side
+      - reps: 4/side
 
-  - name: Weighted Ring Dip
-    notes: "RIR 1-2."
+  - name: Archer Chin Up
+    notes: "Backoff set, higher reps."
     sets:
-      - reps: 12
-        load_kg: 10
-      - reps: 12
-        load_kg: 10
-      - reps: 12
-        load_kg: 10
+      - reps: 7/side
 
-  - name: Deep Ring Push Up
-    notes: "RIR 0-1. Chase the pump, keep depth honest."
+  - name: Ring One Arm Push Up
+    notes: "Secondary."
     sets:
-      - reps: to failure
-      - reps: to failure
-      - reps: to failure
+      - reps: 3/side
+      - reps: 3/side
+      - reps: 3/side
 
   - name: Bar Tricep Extensions
-    notes: "15-20 reps per set. RIR 0."
+    notes: "Tertiary. 10-12 reps."
     sets:
-      - reps: to failure
-      - reps: to failure
-      - reps: to failure
+      - reps: 10
+      - reps: 10
+      - reps: 10

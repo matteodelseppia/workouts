@@ -1,39 +1,35 @@
-# HYPERTROPHY WEEK 5 - DAY 1 (Tue) - PUSH PRIMARY
+# WK9 TUE - PUSH HARD
 date: 2026-10-13
 
 exercises:
-  - name: Weighted Dip
-    notes: "Double progression: target 10 reps, stop at RIR 1-2. If all sets hit 10 cleanly, next week adds reps at the same load."
+  - name: Weighted Ring Dip
+    notes: "Load bump, priming for the Oct 27 test at 35kg. RIR 2-3, no grinding."
     sets:
-      - reps: 10
-        load_kg: 35
-      - reps: 10
-        load_kg: 35
-      - reps: 10
-        load_kg: 35
-      - reps: 10
-        load_kg: 35
+      - reps: 3
+        load_kg: 30
+      - reps: 3
+        load_kg: 30
+      - reps: 3
+        load_kg: 30
+      - reps: 3
+        load_kg: 30
 
   - name: Weighted Ring Dip
-    notes: "RIR 1-2. Controlled, full depth."
+    notes: "Backoff set."
     sets:
-      - reps: 10
-        load_kg: 17.5
-      - reps: 10
-        load_kg: 17.5
-      - reps: 10
-        load_kg: 17.5
+      - reps: 5
+        load_kg: 25
 
-  - name: Deep Ring Push Up
-    notes: "As deep as shoulders allow. RIR 1-2."
+  - name: Advanced Tuck Front Lever Raise
+    notes: "Secondary. RIR 1-2."
     sets:
-      - reps: 12
-      - reps: 12
-      - reps: 12
+      - reps: 6
+      - reps: 6
+      - reps: 6
 
-  - name: Bar Tricep Extensions
-    notes: "12-15 reps per set. RIR 0-1."
+  - name: Archer Australian Chin Up
+    notes: "Tertiary."
     sets:
-      - reps: to failure
-      - reps: to failure
-      - reps: to failure
+      - reps: 8/side
+      - reps: 8/side
+      - reps: 8/side

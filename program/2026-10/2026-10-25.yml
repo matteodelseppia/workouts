@@ -1,35 +1,30 @@
-# HYPERTROPHY WEEK 6 - DAY 4 (Sun) - PULL VOLUME
+# WK10 SUN - PULL TECHNICAL
 date: 2026-10-25
 
 exercises:
-  - name: Weighted Pull Up
-    notes: "Lighter volume work. Target 12 reps at RIR 2."
+  - name: Archer Pull Up
+    notes: "Primary top sets, lighter than Saturday."
     sets:
-      - reps: 12
-        load_kg: 12.5
-      - reps: 12
-        load_kg: 12.5
-      - reps: 12
-        load_kg: 12.5
+      - reps: 4/side
+      - reps: 4/side
+      - reps: 4/side
 
-  - name: Australian Pull Up
-    notes: "1-2s squeeze at the top. RIR 0-1."
+  - name: Band-Assisted Archer Pull Up
+    notes: "Backoff — high-quality volume with band assistance."
     sets:
-      - reps: to failure
-      - reps: to failure
-      - reps: to failure
-      - reps: to failure
+      - reps: 8/side
+      - reps: 8/side
 
-  - name: Tuck Front Lever Raise
-    notes: "8-10 reps. RIR 1."
+  - name: Ring One Arm Push Up
+    notes: "Secondary."
     sets:
-      - reps: 8
-      - reps: 8
-      - reps: 8
+      - reps: 4/side
+      - reps: 4/side
+      - reps: 4/side
 
-  - name: Ring Bicep Curl
-    notes: "12-15 reps per set. RIR 0."
+  - name: Planche Lean
+    notes: "Tertiary. Hold for time."
     sets:
-      - reps: to failure
-      - reps: to failure
-      - reps: to failure
+      - reps: 18s
+      - reps: 18s
+      - reps: 18s

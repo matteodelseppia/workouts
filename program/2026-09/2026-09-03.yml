@@ -1,35 +1,35 @@
-# TRANSITION - DAY 1 (Thu) - LIGHT FULL UPPER
+# WK3 THU - PUSH TECHNICAL
 date: 2026-09-03
 
 exercises:
-  - name: Weighted Dip
-    notes: "Post-comp recovery. Everything RIR 3-4, smooth reps only."
+  - name: Weighted Ring Dip
+    notes: "Primary top sets, lighter than Tuesday. Quality focus, RIR 3."
     sets:
-      - reps: 8
-        load_kg: 10
-      - reps: 8
-        load_kg: 10
-      - reps: 8
-        load_kg: 10
+      - reps: 4
+        load_kg: 15
+      - reps: 4
+        load_kg: 15
+      - reps: 4
+        load_kg: 15
+      - reps: 4
+        load_kg: 15
 
-  - name: Weighted Pull Up
-    notes: "RIR 3-4. Just move."
+  - name: Weighted Ring Dip
+    notes: "Backoff set."
     sets:
       - reps: 6
-        load_kg: 5
-      - reps: 6
-        load_kg: 5
-      - reps: 6
-        load_kg: 5
+        load_kg: 12.5
 
-  - name: Deep Ring Push Up
-    notes: "Easy tempo, full range."
+  - name: Advanced Tuck Front Lever Raise
+    notes: "Secondary. RIR 1-2."
     sets:
-      - reps: 10
-      - reps: 10
+      - reps: 4
+      - reps: 4
+      - reps: 4
 
-  - name: Australian Pull Up
-    notes: "Easy squeeze, no failure."
+  - name: Front Lever ISO Hold
+    notes: "Tertiary. Hold for time."
     sets:
-      - reps: 12
-      - reps: 12
+      - reps: 12s
+      - reps: 12s
+      - reps: 12s

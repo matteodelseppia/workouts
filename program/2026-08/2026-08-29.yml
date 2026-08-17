@@ -1,9 +1,30 @@
-# WEEK 8 - DAY 3 (Sat) - PRE-COMP PRIMER - COMP TUE SEPT 1 (DIP ONLY)
+# WK2 SAT - PULL HARD
 date: 2026-08-29
 
 exercises:
-  - name: Dip
-    notes: "Bodyweight only. Fast reps, full ROM. Then rest until Sept 1. Pulling is full rest today — no pull-up primer, pull-ups aren't part of the Sept 1 comp."
+  - name: Archer Chin Up
+    notes: "Primary top sets. Crisp reps, RIR 1-2."
     sets:
-      - reps: 5
-      - reps: 5
+      - reps: 3/side
+      - reps: 3/side
+      - reps: 3/side
+      - reps: 3/side
+
+  - name: Archer Chin Up
+    notes: "Backoff set, higher reps."
+    sets:
+      - reps: 6/side
+
+  - name: Ring One Arm Push Up
+    notes: "Secondary."
+    sets:
+      - reps: 2/side
+      - reps: 2/side
+      - reps: 2/side
+
+  - name: Bar Tricep Extensions
+    notes: "Tertiary. 10-12 reps."
+    sets:
+      - reps: 10
+      - reps: 10
+      - reps: 10

@@ -1,34 +1,35 @@
-# FINAL WEEK - DAY 2 (Thu) - PULL REP-MAX
+# WK11 THU - PUSH GOAL DAY (Front Lever)
 date: 2026-10-29
 
 exercises:
-  - name: Weighted Pull Up
-    notes: "First set AMRAP at RIR 1 (cap at 15). Log it - progress marker vs 4x8 in week 4."
+  - name: Weighted Ring Dip
+    notes: "Primary top sets, lighter than Tuesday. RIR 3."
     sets:
-      - reps: AMRAP
-        load_kg: 17.5
-      - reps: 8
-        load_kg: 17.5
-      - reps: 8
-        load_kg: 17.5
+      - reps: 4
+        load_kg: 30
+      - reps: 4
+        load_kg: 30
+      - reps: 4
+        load_kg: 30
+      - reps: 4
+        load_kg: 30
 
-  - name: Tuck Front Lever Raise
-    notes: "RIR 1."
+  - name: Weighted Ring Dip
+    notes: "Backoff set."
+    sets:
+      - reps: 6
+        load_kg: 25
+
+  - name: Advanced Tuck Front Lever Raise
+    notes: "GOAL — sustain 3x8. Warm up properly, then go for all three sets."
     sets:
       - reps: 8
       - reps: 8
       - reps: 8
 
-  - name: Australian Pull Up
-    notes: "RIR 0-1."
+  - name: Front Lever ISO Hold
+    notes: "Tertiary. Hold for time."
     sets:
-      - reps: to failure
-      - reps: to failure
-      - reps: to failure
-
-  - name: Ring Bicep Curl
-    notes: "8-12 reps. RIR 0-1."
-    sets:
-      - reps: to failure
-      - reps: to failure
-      - reps: to failure
+      - reps: 20s
+      - reps: 20s
+      - reps: 20s

@@ -1,39 +1,29 @@
-# WEEK 7 - DAY 4 (Sun) - VOLUME PUSH
+# WK1 SUN - PULL TECHNICAL (before Mon rest)
 date: 2026-08-23
 
 exercises:
-  - name: Weighted Dip
-    notes: "Volume day. Stop 2 reps shy of failure."
+  - name: Archer Chin Up
+    notes: "Primary top sets, lighter than Saturday. Quality focus."
     sets:
-      - reps: 8
-        load_kg: 36
-      - reps: 8
-        load_kg: 36
-      - reps: 8
-        load_kg: 36
-      - reps: 8
-        load_kg: 36
+      - reps: 3/side
+      - reps: 3/side
+      - reps: 3/side
 
-  - name: Weighted Ring Dip
-    notes: "Stability and volume."
+  - name: Archer Chin Up
+    notes: "Backoff set, higher reps."
     sets:
-      - reps: 8
-        load_kg: 12.5
-      - reps: 8
-        load_kg: 12.5
-      - reps: 8
-        load_kg: 12.5
+      - reps: 6/side
 
-  - name: Archer Push Up
-    notes: "Accessory."
+  - name: Ring One Arm Push Up
+    notes: "Secondary."
     sets:
-      - reps: 10 each side
-      - reps: 10 each side
-      - reps: 10 each side
+      - reps: 2/side
+      - reps: 2/side
+      - reps: 2/side
 
-  - name: Bar Tricep Extensions
-    notes: "10-12 reps per set."
+  - name: Planche Lean
+    notes: "Tertiary. Hold for time."
     sets:
-      - reps: to failure
-      - reps: to failure
-      - reps: to failure
+      - reps: 10s
+      - reps: 10s
+      - reps: 10s
