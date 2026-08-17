@@ -1,34 +1,30 @@
-# RINGS WEEK 6 - DAY 4 (Sun) - PULL VOLUME (rings/archer/front lever)
+# WK10 SUN - PULL TECHNICAL
 date: 2026-10-25
 
 exercises:
-  - name: Ring Weighted Pull Up
-    notes: "Same as Oct 18. RIR 2."
+  - name: Archer Pull Up
+    notes: "Primary top sets, lighter than Saturday."
     sets:
-      - reps: 6
-        load_kg: 22.5
-      - reps: 6
-        load_kg: 22.5
-      - reps: 6
-        load_kg: 22.5
+      - reps: 4/side
+      - reps: 4/side
+      - reps: 4/side
 
-  - name: Archer Australian Chin Up
-    notes: "1-2s squeeze at full extension."
+  - name: Band-Assisted Archer Pull Up
+    notes: "Backoff — high-quality volume with band assistance."
     sets:
       - reps: 8/side
       - reps: 8/side
-      - reps: 8/side
 
-  - name: Tuck Front Lever Raise
-    notes: "RIR 2."
+  - name: Ring One Arm Push Up
+    notes: "Secondary."
     sets:
-      - reps: 6
-      - reps: 6
-      - reps: 6
+      - reps: 4/side
+      - reps: 4/side
+      - reps: 4/side
 
-  - name: Ring Bicep Curl
-    notes: "12-15 reps per set. RIR 0."
+  - name: Planche Lean
+    notes: "Tertiary. Hold for time."
     sets:
-      - reps: to failure
-      - reps: to failure
-      - reps: to failure
+      - reps: 18s
+      - reps: 18s
+      - reps: 18s

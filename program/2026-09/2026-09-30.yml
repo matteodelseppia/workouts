@@ -1,0 +1,29 @@
+# WK7 WED - PULL, DELOAD
+date: 2026-09-30
+
+exercises:
+  - name: Ring Weighted Pull Up
+    notes: "Deload week. Half volume, ~60% load, RIR 3-4."
+    sets:
+      - reps: 3
+        load_kg: 15
+      - reps: 3
+        load_kg: 15
+
+  - name: Ring Weighted Pull Up
+    notes: "Backoff set."
+    sets:
+      - reps: 6
+        load_kg: 12.5
+
+  - name: Ring One Arm Push Up
+    notes: "Secondary."
+    sets:
+      - reps: 2/side
+      - reps: 2/side
+
+  - name: Planche Lean
+    notes: "Tertiary. Hold for time."
+    sets:
+      - reps: 10s
+      - reps: 10s

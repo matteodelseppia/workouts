@@ -1,37 +1,35 @@
-# WEEK 7 - DAY 1 (Tue) - PULL PRIMARY (rings/archer/front lever)
+# WK1 TUE - PUSH HARD (after Mon rest)
 date: 2026-08-18
 
 exercises:
-  - name: Ring Weighted Pull Up
-    notes: "Same as Aug 17. RIR 2, controlled through the rotation."
+  - name: Weighted Ring Dip
+    notes: "Primary top sets. RIR 2-3, no grinding. Building toward 35kg x3 by Oct 27."
     sets:
       - reps: 3
-        load_kg: 22.5
+        load_kg: 20
       - reps: 3
-        load_kg: 22.5
+        load_kg: 20
       - reps: 3
-        load_kg: 22.5
-      - reps: 7
-        load_kg: 12.5
+        load_kg: 20
+      - reps: 3
+        load_kg: 20
+
+  - name: Weighted Ring Dip
+    notes: "Backoff set."
+    sets:
+      - reps: 5
+        load_kg: 15
 
   - name: Advanced Tuck Front Lever Raise
-    notes: "RIR 1-2."
+    notes: "Secondary. RIR 1-2. Ramping toward 3x8 by Oct 27."
     sets:
       - reps: 3
       - reps: 3
       - reps: 3
 
-  - name: Archer Chin Up
-    notes: "Skill work, crisp reps."
+  - name: Archer Australian Chin Up
+    notes: "Tertiary."
     sets:
-      - reps: 2/side
-      - reps: 2/side
-      - reps: 2/side
-      - reps: 2/side
-
-  - name: Ring Bicep Curl
-    notes: "8-12 reps per set. RIR 0-1."
-    sets:
-      - reps: to failure
-      - reps: to failure
-      - reps: to failure
+      - reps: 6/side
+      - reps: 6/side
+      - reps: 6/side

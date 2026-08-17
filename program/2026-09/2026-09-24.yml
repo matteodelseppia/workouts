@@ -1,37 +1,35 @@
-# RINGS WEEK 3 - DAY 2 (Thu) - PULL PRIMARY (rings/archer/front lever)
+# WK6 THU - PUSH TECHNICAL
 date: 2026-09-24
 
 exercises:
-  - name: Ring Weighted Pull Up
-    notes: "Load bump. Back to 4 reps at the new load. RIR 2, no grinding."
+  - name: Weighted Ring Dip
+    notes: "Primary top sets, lighter than Tuesday. Quality focus, RIR 3."
     sets:
-      - reps: 4
-        load_kg: 27.5
-      - reps: 4
-        load_kg: 27.5
-      - reps: 4
-        load_kg: 27.5
-      - reps: 6
-        load_kg: 17.5
+      - reps: 5
+        load_kg: 20
+      - reps: 5
+        load_kg: 20
+      - reps: 5
+        load_kg: 20
+      - reps: 5
+        load_kg: 20
+
+  - name: Weighted Ring Dip
+    notes: "Backoff set."
+    sets:
+      - reps: 7
+        load_kg: 15
 
   - name: Advanced Tuck Front Lever Raise
-    notes: "RIR 1-2."
+    notes: "Secondary. RIR 1-2."
     sets:
-      - reps: 4
-      - reps: 4
-      - reps: 4
+      - reps: 5
+      - reps: 5
+      - reps: 5
 
-  - name: Archer Chin Up
-    notes: "Last chin-up session before switching to strict Archer Pull Up on Oct 8."
+  - name: Front Lever ISO Hold
+    notes: "Tertiary. Hold for time."
     sets:
-      - reps: 4/side
-      - reps: 4/side
-      - reps: 4/side
-      - reps: 4/side
-
-  - name: Ring Bicep Curl
-    notes: "8-12 reps per set. RIR 0-1."
-    sets:
-      - reps: to failure
-      - reps: to failure
-      - reps: to failure
+      - reps: 15s
+      - reps: 15s
+      - reps: 15s

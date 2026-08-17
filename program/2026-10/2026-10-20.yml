@@ -1,9 +1,9 @@
-# RINGS WEEK 6 - DAY 1 (Tue) - PUSH PRIMARY (low-rep)
+# WK10 TUE - PUSH HARD
 date: 2026-10-20
 
 exercises:
   - name: Weighted Ring Dip
-    notes: "Bigger jump, reps back to 3 — priming for the Oct 27 test at 35kg. RIR 2-3, no grinding."
+    notes: "Bigger jump, priming for the Oct 27 test at 35kg. RIR 2-3, no grinding."
     sets:
       - reps: 3
         load_kg: 32
@@ -14,14 +14,22 @@ exercises:
       - reps: 3
         load_kg: 32
 
-  - name: Deep Ring Push Up
-    notes: "As deep as shoulders allow. RIR 2."
+  - name: Weighted Ring Dip
+    notes: "Backoff set."
     sets:
-      - reps: 10
-      - reps: 10
+      - reps: 5
+        load_kg: 25
 
-  - name: Bar Tricep Extensions
-    notes: "10-12 reps per set. RIR 2, not to failure."
+  - name: Advanced Tuck Front Lever Raise
+    notes: "Secondary. RIR 1-2."
     sets:
-      - reps: 10
-      - reps: 10
+      - reps: 7
+      - reps: 7
+      - reps: 7
+
+  - name: Archer Australian Chin Up
+    notes: "Tertiary."
+    sets:
+      - reps: 8/side
+      - reps: 8/side
+      - reps: 8/side

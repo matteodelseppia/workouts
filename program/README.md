@@ -37,25 +37,33 @@
 - Archer Pull Up (strict, pronated) 5 reps/side — rehearsed Oct 29, tested Nov 1.
 - Advanced Tuck Front Lever Raise, sustain 3x8 — rehearsed Oct 29 at 3x7, tested Nov 1.
 
-**Exercise pool (fixed):** Ring Weighted Pull Up · Advanced Tuck Front Lever Raise · Tuck Front Lever Raise · Archer Chin Up · Archer Pull Up · Archer Australian Chin Up · Weighted Ring Dip · Deep Ring Push Up · Ring Bicep Curl · Ring Face Pull · Bar Tricep Extensions.
+**Session template (every day):** primary exercise top sets → primary exercise backoff sets → secondary exercise → tertiary exercise. Secondary and tertiary are always the *opposite* modality from that day's primary, so every session is push-and-pull balanced, not a pure split day.
 
-### Structure (4 days/week)
+**Primary pool:** Weighted Ring Dip (push) · Archer Chin Up → Archer Pull Up from Oct 10/11 (pull).
+**Secondary pool:** Advanced Tuck Front Lever Raise (pull, used on push days) · Ring Weighted Pull Up (pull, its own primary on Wed) · Ring One Arm Push Up (push, used on pull days).
+**Tertiary pool:** Archer Australian Chin Up · Front Lever ISO Hold (pull, push days) · Bar Tricep Extensions · Planche Lean (push, pull days).
+**Backoff-set specialist:** Band-Assisted Archer Pull Up — high-quality extra volume (6–8 reps/side) once the primary switches to strict Archer Pull Up, replacing Archer Chin Up as the backoff variant.
+
+### Structure — 5 days/week (Tue/Wed/Thu/Sat/Sun, rest Mon+Fri)
+Pull trains 3x/week, push 2x/week. Hardest sessions land right after a rest day when fresh; technical/quality sessions land right before a rest day when fatigue is highest — this holds symmetrically for both modalities.
+
 | Day | Focus |
 |-----|-------|
-| Tue | Push primary (ring dips, 3–4 reps, RIR 2–3) |
-| Thu | Pull primary (ring weighted pull ups + advanced tuck front lever raise + archer chin ups) |
-| Sat | Push volume (lighter ring dips, 4–5 reps, RIR 3) |
-| Sun | Pull volume (lighter ring pull ups + archer australian chin ups + front lever) |
+| Tue (after Mon rest) | **Push, hard** — Weighted Ring Dip top+backoff sets, building toward 35kg x3 |
+| Wed | **Pull, moderate** — Ring Weighted Pull Up top+backoff sets |
+| Thu (before Fri rest) | **Push, technical** — Weighted Ring Dip, lighter, quality-focused |
+| Sat (after Fri rest) | **Pull, hard** — Archer Chin/Pull Up top+backoff sets, building toward 5/side |
+| Sun (before Mon rest) | **Pull, technical** — Archer Chin/Pull Up, lighter, quality-focused |
 
 ### Blocks
-- **Aug 18–29: Block 1 close-out, converted.** Comp and taper dropped. First two ring dip sessions (Aug 20, 27) at 20 → 22.5kg for 3 reps, easing in off the bars. Pull switches over immediately too — Tue/Sat pull days move to Ring Weighted Pull Up + Advanced Tuck Front Lever Raise + Archer Chin Up/Archer Australian Chin Up, matching the Aug 17 session (3x3@22.5 + backoff, 3x3 advanced tuck, 4x2/side archer chin).
-- **Sept 2–6: transition.** Two easy full-upper sessions at RIR 3–4: ring dip at 15 → 17.5kg for 3 reps, ring pull up at 10 → 12.5kg for 5 reps.
-- **Sept 8 – Oct 24: rings low-rep waves (6 weeks, deload in the middle).** Push primary (Tue) climbs 25 → 32kg, building toward the Oct 27 test; pull primary (Thu) climbs Ring Weighted Pull Up 25 → 30kg with a lighter backoff set, while Advanced Tuck Front Lever Raise climbs 3x3 → 3x6 and the archer variant switches from Archer Chin Up (Aug 18 – Sept 24, building the base) to strict Archer Pull Up (from Oct 8, 2/side → 4/side) working toward 5/side. Volume days (Sat push / Sun pull) trail behind at lighter load and higher reps. Always RIR 2–3, never to failure on the loaded lifts. Sept 29 – Oct 3 is a half-volume deload week.
-- **Oct 27 – Nov 1: goal week.** Oct 27 (Tue) is the Weighted Ring Dip test — warm up to a top triple at 35kg — with Oct 31 as a lighter confirmation, not a second max attempt. Oct 29 (Thu) rehearses the other two targets at 3x7 front lever and 5/side archer pull up; Ring Weighted Pull Up gets one AMRAP marker the same day (capped at 8). Nov 1 (Sun) is the actual deadline for Advanced Tuck Front Lever Raise 3x8 and Archer Pull Up 5/side, with only light Ring Weighted Pull Up alongside. Block 3 reintroduces bar work for both lifts from Nov 3.
+- **Aug 18 – Sept 27 (7 weeks): Archer Chin Up base.** Builds from 3/side to 4/side on Tue/Sat (hard) and 3–4/side on Wed/Sun (technical), while Ring Dip climbs 20 → 27.5kg and Ring Weighted Pull Up climbs 15 → 25kg. Front lever secondary climbs 3x3 → 3x5.
+- **Sept 29 – Oct 4: deload week.** Half volume, ~60% load, RIR 3–4 across all 5 sessions. Oct 3/4 are the last Archer Chin Up sessions.
+- **Oct 10/11: switch to strict Archer Pull Up.** Top sets reset to 2/side; Band-Assisted Archer Pull Up becomes the backoff (6–8/side) for high-quality volume on the harder variant. Climbs 2 → 4/side by Oct 24/25 while Ring Dip climbs 28 → 32kg and front lever climbs 3x6 → 3x7.
+- **Oct 27 – Nov 1: goal week.** Oct 27 (Tue) — Weighted Ring Dip GOAL: warm up to a top triple at 35kg. Oct 29 (Thu) — Advanced Tuck Front Lever Raise GOAL: sustain 3x8. Oct 31 (Sat) — Archer Pull Up rehearsal at 5/side. Nov 1 (Sun) — Archer Pull Up GOAL: 5/side, confirmed. Block 3 reintroduces bar work for both lifts from Nov 3.
 
 ### Rules
 - No bar dip or bar pull-up/chin-up work of any kind through Nov 1 — everything loaded moves to rings.
-- Ring dip and ring pull-up top sets stop at RIR 2–3, never to failure; only isolation accessories (curls, tricep extensions, face pulls) go to failure.
+- Primary top sets stop at RIR 1–3 depending on the day's intensity tag, never to failure; only isolation tertiary work (tricep extensions, archer australian) pushes closer to failure.
 - Loads are prescriptions, not contracts: if a session feels off, drop weight rather than grind.
 
 ---
@@ -94,3 +102,4 @@
 - **Aug 17:** Hit a 60kg dip 1RM on bars on Aug 9 — already past this cycle's 3RM targets, and ahead of schedule for the planned Sept 1 comp peak. Decided to pull the plug on parallel bar dips and the comp entirely rather than push further: elbows/shoulders get a break, and dip work moves to low-rep ring work (currently ~25kg x3 x5 sets) for about 2.5 months, returning to bar dips Nov 3. Week 8 (Aug 25–29) taper and the Sept 1 competition are cancelled — see the corrected Weeks 6–8 text above. Block 2 is rewritten from a bar-dip hypertrophy plan into the "Rings Transition" block (Aug 18 – Nov 1, see below); Block 3's Nov 3 conversion phase now also serves as the bar-dip reintroduction after the rings-only stretch.
 - **Aug 17 (cont.):** pull programming switches over too, same day, to match the actual Aug 17 session (Advanced Tuck Front Lever Raise, Archer Chin Up, Ring Weighted Pull Up, Archer Australian Chin Up). All bar pull-up/chin-up work is dropped from Aug 18 through Nov 1 in favor of that rings/archer/front-lever mix — see Block 2 for the week-by-week detail. Weeks 6–7's "Weighted Chin Up 8→11 reps across Tue/Sat" line above only reflects sessions through Aug 15; Aug 18 onward now runs the new pull scheme instead.
 - **Aug 17 (cont. 2):** set three explicit Nov 1 targets for the rings block — Weighted Ring Dip 35kg x3, Archer Pull Up 5 reps/side, Advanced Tuck Front Lever Raise sustained 3x8. Revised the back half of Block 2 to actually build toward these numbers instead of tapering out: push primary now peaks at a real 35kg test on Oct 27 (was easing down to 27.5kg), and pull primary switches Archer Chin Up to strict Archer Pull Up from Oct 8 while front lever climbs to 3x7 by Oct 29. Nov 1 becomes a dedicated goal-test day for the archer pull up and front lever targets rather than an easy block-closer. See Block 2 above for the full week-by-week numbers.
+- **Aug 18 (restructure):** rebuilt Block 2 around a fixed 4-part session template (primary top sets → primary backoff sets → secondary → tertiary, secondary/tertiary always the opposite modality from that day's primary) and moved to a 5-day week — Tue/Wed/Thu/Sat/Sun, resting Mon+Fri — with pull 3x/week and push 2x/week. Hardest sessions (Tue push, Sat pull) land right after a rest day; technical/quality sessions (Thu push, Sun pull) land right before one; Wednesday (Ring Weighted Pull Up) is the third, moderate pull day. Added Ring One Arm Push Up, Planche Lean, and Front Lever ISO Hold to the exercise pool, retiring Deep Ring Push Up, Ring Bicep Curl, and Ring Face Pull. Once Archer Pull Up becomes the primary (Oct 10/11), its backoff sets switch to Band-Assisted Archer Pull Up (6–8 reps/side) for high-quality volume on the harder variant instead of dropping back to Archer Chin Up. All three Nov 1 targets and the Oct 27 dip test carry over unchanged — only the weekly shape and exercise pool changed. Every program file from Aug 18 through Nov 1 was rewritten under this template.

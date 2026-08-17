@@ -1,0 +1,33 @@
+# WK9 WED - PULL MODERATE
+date: 2026-10-14
+
+exercises:
+  - name: Ring Weighted Pull Up
+    notes: "Load bump. RIR 2-3."
+    sets:
+      - reps: 3
+        load_kg: 30
+      - reps: 3
+        load_kg: 30
+      - reps: 3
+        load_kg: 30
+
+  - name: Ring Weighted Pull Up
+    notes: "Backoff set."
+    sets:
+      - reps: 6
+        load_kg: 25
+
+  - name: Ring One Arm Push Up
+    notes: "Secondary."
+    sets:
+      - reps: 4/side
+      - reps: 4/side
+      - reps: 4/side
+
+  - name: Planche Lean
+    notes: "Tertiary. Hold for time."
+    sets:
+      - reps: 15s
+      - reps: 15s
+      - reps: 15s

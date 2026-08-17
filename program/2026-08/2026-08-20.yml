@@ -1,22 +1,35 @@
-# WEEK 7 - DAY 2 (Thu) - RING DIP (low-rep, joints reset)
+# WK1 THU - PUSH TECHNICAL (before Fri rest)
 date: 2026-08-20
 
 exercises:
   - name: Weighted Ring Dip
-    notes: "First loaded session off the bars. Low reps, generous RIR — this is a joint-relief block, not a strength test. Stop well short of failure."
+    notes: "Primary top sets, lighter than Tuesday. Quality focus, RIR 3."
     sets:
-      - reps: 3
-        load_kg: 20
-      - reps: 3
-        load_kg: 20
-      - reps: 3
-        load_kg: 20
-      - reps: 3
-        load_kg: 20
+      - reps: 4
+        load_kg: 12.5
+      - reps: 4
+        load_kg: 12.5
+      - reps: 4
+        load_kg: 12.5
+      - reps: 4
+        load_kg: 12.5
 
-  - name: Bar Tricep Extensions
-    notes: "10-12 reps per set. RIR 2, not to failure."
+  - name: Weighted Ring Dip
+    notes: "Backoff set."
     sets:
-      - reps: 10
-      - reps: 10
-      - reps: 10
+      - reps: 6
+        load_kg: 10
+
+  - name: Advanced Tuck Front Lever Raise
+    notes: "Secondary. RIR 1-2."
+    sets:
+      - reps: 3
+      - reps: 3
+      - reps: 3
+
+  - name: Front Lever ISO Hold
+    notes: "Tertiary. Advanced tuck position, hold for time."
+    sets:
+      - reps: 10s
+      - reps: 10s
+      - reps: 10s

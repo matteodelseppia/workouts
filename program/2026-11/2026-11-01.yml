@@ -1,14 +1,7 @@
-# FINAL WEEK - DAY 4 (Sun) - PULL GOAL DAY - BLOCK ENDS
+# WK11 SUN - PULL GOAL DAY - BLOCK ENDS
 date: 2026-11-01
 
 exercises:
-  - name: Advanced Tuck Front Lever Raise
-    notes: "GOAL DAY — sustain 3x8. Warm up properly, then go for all three sets."
-    sets:
-      - reps: 8
-      - reps: 8
-      - reps: 8
-
   - name: Archer Pull Up
     notes: "GOAL DAY — 5 reps per side, strict. Rest as needed between sides."
     sets:
@@ -16,19 +9,22 @@ exercises:
       - reps: 5/side
       - reps: 5/side
 
-  - name: Ring Weighted Pull Up
-    notes: "Light. RIR 2-3 — save the effort for the skill work above."
+  - name: Band-Assisted Archer Pull Up
+    notes: "Backoff — high-quality volume with band assistance."
     sets:
-      - reps: 6
-        load_kg: 17.5
-      - reps: 6
-        load_kg: 17.5
-      - reps: 6
-        load_kg: 17.5
+      - reps: 8/side
+      - reps: 8/side
 
-  - name: Ring Bicep Curl
-    notes: "12-15 reps. RIR 0."
+  - name: Ring One Arm Push Up
+    notes: "Secondary."
     sets:
-      - reps: to failure
-      - reps: to failure
-      - reps: to failure
+      - reps: 4/side
+      - reps: 4/side
+      - reps: 4/side
+
+  - name: Planche Lean
+    notes: "Tertiary. Hold for time. Last session of the rings block — bar work resumes Nov 3."
+    sets:
+      - reps: 20s
+      - reps: 20s
+      - reps: 20s

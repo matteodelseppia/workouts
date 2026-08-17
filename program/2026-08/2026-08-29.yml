@@ -1,34 +1,30 @@
-# WEEK 8 - DAY 3 (Sat) - PULL VOLUME (rings/archer/front lever)
+# WK2 SAT - PULL HARD
 date: 2026-08-29
 
 exercises:
-  - name: Ring Weighted Pull Up
-    notes: "Small bump from Aug 22. RIR 2."
+  - name: Archer Chin Up
+    notes: "Primary top sets. Crisp reps, RIR 1-2."
     sets:
-      - reps: 5
-        load_kg: 20
-      - reps: 5
-        load_kg: 20
-      - reps: 5
-        load_kg: 20
+      - reps: 3/side
+      - reps: 3/side
+      - reps: 3/side
+      - reps: 3/side
 
-  - name: Archer Australian Chin Up
-    notes: "1-2s squeeze at full extension."
+  - name: Archer Chin Up
+    notes: "Backoff set, higher reps."
     sets:
       - reps: 6/side
-      - reps: 6/side
-      - reps: 6/side
 
-  - name: Tuck Front Lever Raise
-    notes: "RIR 2."
+  - name: Ring One Arm Push Up
+    notes: "Secondary."
     sets:
-      - reps: 6
-      - reps: 6
-      - reps: 6
+      - reps: 2/side
+      - reps: 2/side
+      - reps: 2/side
 
-  - name: Ring Face Pull
-    notes: "12-15 reps. Shoulder health."
+  - name: Bar Tricep Extensions
+    notes: "Tertiary. 10-12 reps."
     sets:
-      - reps: to failure
-      - reps: to failure
-      - reps: to failure
+      - reps: 10
+      - reps: 10
+      - reps: 10

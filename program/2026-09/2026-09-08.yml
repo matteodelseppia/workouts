@@ -1,29 +1,35 @@
-# RINGS WEEK 1 - DAY 1 (Tue) - PUSH PRIMARY (low-rep)
+# WK4 TUE - PUSH HARD
 date: 2026-09-08
 
 exercises:
   - name: Weighted Ring Dip
-    notes: "Primary lift for this block. Low reps, RIR 2-3 — no grinding, no failure sets. Same load/reps as Sept 6, now for full sets."
+    notes: "Primary top sets. RIR 2-3, no grinding."
     sets:
-      - reps: 3
+      - reps: 4
         load_kg: 25
-      - reps: 3
+      - reps: 4
         load_kg: 25
-      - reps: 3
+      - reps: 4
         load_kg: 25
-      - reps: 3
-        load_kg: 25
-      - reps: 3
+      - reps: 4
         load_kg: 25
 
-  - name: Deep Ring Push Up
-    notes: "As deep as shoulders allow. RIR 2."
+  - name: Weighted Ring Dip
+    notes: "Backoff set."
     sets:
-      - reps: 10
-      - reps: 10
+      - reps: 6
+        load_kg: 20
 
-  - name: Bar Tricep Extensions
-    notes: "10-12 reps per set. RIR 2, not to failure."
+  - name: Advanced Tuck Front Lever Raise
+    notes: "Secondary. RIR 1-2."
     sets:
-      - reps: 10
-      - reps: 10
+      - reps: 4
+      - reps: 4
+      - reps: 4
+
+  - name: Archer Australian Chin Up
+    notes: "Tertiary."
+    sets:
+      - reps: 7/side
+      - reps: 7/side
+      - reps: 7/side

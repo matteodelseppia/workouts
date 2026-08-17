@@ -1,27 +1,31 @@
-# RINGS WEEK 5 - DAY 3 (Sat) - PUSH VOLUME (low-rep, lighter)
+# WK9 SAT - PULL HARD
 date: 2026-10-17
 
 exercises:
-  - name: Weighted Ring Dip
-    notes: "Small bump from Oct 10. RIR 3."
+  - name: Archer Pull Up
+    notes: "Primary top sets. Small bump from Oct 10. Goal is 5/side by Nov 1."
     sets:
-      - reps: 4
-        load_kg: 25
-      - reps: 4
-        load_kg: 25
-      - reps: 4
-        load_kg: 25
-      - reps: 4
-        load_kg: 25
+      - reps: 3/side
+      - reps: 3/side
+      - reps: 3/side
+      - reps: 3/side
 
-  - name: Deep Ring Push Up
-    notes: "RIR 2."
+  - name: Band-Assisted Archer Pull Up
+    notes: "Backoff — high-quality volume with band assistance."
     sets:
-      - reps: 10
-      - reps: 10
+      - reps: 7/side
+      - reps: 7/side
+
+  - name: Ring One Arm Push Up
+    notes: "Secondary."
+    sets:
+      - reps: 4/side
+      - reps: 4/side
+      - reps: 4/side
 
   - name: Bar Tricep Extensions
-    notes: "10-12 reps per set. RIR 2."
+    notes: "Tertiary. 10-12 reps."
     sets:
-      - reps: 10
-      - reps: 10
+      - reps: 12
+      - reps: 12
+      - reps: 12

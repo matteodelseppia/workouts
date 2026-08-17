@@ -1,9 +1,9 @@
-# RINGS FINAL WEEK - DAY 1 (Tue) - PUSH GOAL DAY
+# WK11 TUE - PUSH GOAL DAY
 date: 2026-10-27
 
 exercises:
   - name: Weighted Ring Dip
-    notes: "GOAL DAY — 35kg x3. Warm up thoroughly and build to it; take the backoffs only after the top set, win or not. If 35 only moves for a clean double, that's still real — Oct 31 and the Nov 3 bar reintroduction are both still ahead."
+    notes: "GOAL DAY — 35kg x3. Warm up thoroughly and build to it; take the backoffs only after the top set, win or not."
     sets:
       - reps: 3
         load_kg: 20
@@ -18,14 +18,16 @@ exercises:
       - reps: 3
         load_kg: 28
 
-  - name: Deep Ring Push Up
-    notes: "RIR 2."
+  - name: Advanced Tuck Front Lever Raise
+    notes: "Secondary. One session short of the Oct 29/31 goal (3x8) — this is 3x7."
     sets:
-      - reps: 10
-      - reps: 10
+      - reps: 7
+      - reps: 7
+      - reps: 7
 
-  - name: Bar Tricep Extensions
-    notes: "10-12 reps. RIR 2."
+  - name: Archer Australian Chin Up
+    notes: "Tertiary."
     sets:
-      - reps: 10
-      - reps: 10
+      - reps: 8/side
+      - reps: 8/side
+      - reps: 8/side

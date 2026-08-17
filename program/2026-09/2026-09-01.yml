@@ -1,35 +1,35 @@
-# WK2 TUE - PUSH HARD
-date: 2026-08-25
+# WK3 TUE - PUSH HARD
+date: 2026-09-01
 
 exercises:
   - name: Weighted Ring Dip
     notes: "Primary top sets. RIR 2-3, no grinding."
     sets:
       - reps: 3
-        load_kg: 22.5
+        load_kg: 25
       - reps: 3
-        load_kg: 22.5
+        load_kg: 25
       - reps: 3
-        load_kg: 22.5
+        load_kg: 25
       - reps: 3
-        load_kg: 22.5
+        load_kg: 25
 
   - name: Weighted Ring Dip
     notes: "Backoff set."
     sets:
       - reps: 5
-        load_kg: 17.5
+        load_kg: 20
 
   - name: Advanced Tuck Front Lever Raise
     notes: "Secondary. RIR 1-2."
     sets:
-      - reps: 3
-      - reps: 3
-      - reps: 3
+      - reps: 4
+      - reps: 4
+      - reps: 4
 
   - name: Archer Australian Chin Up
     notes: "Tertiary."
     sets:
-      - reps: 6/side
-      - reps: 6/side
-      - reps: 6/side
+      - reps: 7/side
+      - reps: 7/side
+      - reps: 7/side

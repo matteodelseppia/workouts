@@ -1,27 +1,30 @@
-# RINGS WEEK 2 - DAY 3 (Sat) - PUSH VOLUME (low-rep, lighter)
+# WK5 SAT - PULL HARD
 date: 2026-09-19
 
 exercises:
-  - name: Weighted Ring Dip
-    notes: "Small bump from Sept 12. RIR 3."
+  - name: Archer Chin Up
+    notes: "Primary top sets. Crisp reps, RIR 1-2."
     sets:
-      - reps: 5
-        load_kg: 20
-      - reps: 5
-        load_kg: 20
-      - reps: 5
-        load_kg: 20
-      - reps: 5
-        load_kg: 20
+      - reps: 4/side
+      - reps: 4/side
+      - reps: 4/side
+      - reps: 4/side
 
-  - name: Deep Ring Push Up
-    notes: "RIR 2."
+  - name: Archer Chin Up
+    notes: "Backoff set, higher reps."
     sets:
-      - reps: 10
-      - reps: 10
+      - reps: 7/side
+
+  - name: Ring One Arm Push Up
+    notes: "Secondary."
+    sets:
+      - reps: 3/side
+      - reps: 3/side
+      - reps: 3/side
 
   - name: Bar Tricep Extensions
-    notes: "10-12 reps per set. RIR 2."
+    notes: "Tertiary. 10-12 reps."
     sets:
+      - reps: 10
       - reps: 10
       - reps: 10

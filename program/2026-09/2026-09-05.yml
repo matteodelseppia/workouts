@@ -1,19 +1,19 @@
-# WK1 SAT - PULL HARD (after Fri rest)
-date: 2026-08-22
+# WK3 SAT - PULL HARD
+date: 2026-09-05
 
 exercises:
   - name: Archer Chin Up
-    notes: "Primary top sets. Crisp reps, RIR 1-2. Building toward strict Archer Pull Up (from Oct 10) and 5/side by Nov 1."
+    notes: "Primary top sets. Crisp reps, RIR 1-2."
     sets:
-      - reps: 3/side
-      - reps: 3/side
-      - reps: 3/side
-      - reps: 3/side
+      - reps: 4/side
+      - reps: 4/side
+      - reps: 4/side
+      - reps: 4/side
 
   - name: Archer Chin Up
     notes: "Backoff set, higher reps."
     sets:
-      - reps: 6/side
+      - reps: 7/side
 
   - name: Ring One Arm Push Up
     notes: "Secondary."

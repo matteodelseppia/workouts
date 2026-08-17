@@ -1,9 +1,9 @@
-# WK7 SAT - PULL, DELOAD (last Archer Chin Up session)
-date: 2026-10-03
+# WK7 SUN - PULL, DELOAD (last Archer Chin Up session)
+date: 2026-10-04
 
 exercises:
   - name: Archer Chin Up
-    notes: "Deload week, and the last chin-up session — switching to strict Archer Pull Up from Oct 10. RIR 3, easy."
+    notes: "Deload week, and the last chin-up session — switching to strict Archer Pull Up from Oct 11. RIR 3, easy."
     sets:
       - reps: 3/side
       - reps: 3/side
@@ -19,8 +19,8 @@ exercises:
       - reps: 2/side
       - reps: 2/side
 
-  - name: Bar Tricep Extensions
-    notes: "Tertiary. 10-12 reps."
+  - name: Planche Lean
+    notes: "Tertiary. Hold for time."
     sets:
-      - reps: 10
-      - reps: 10
+      - reps: 10s
+      - reps: 10s

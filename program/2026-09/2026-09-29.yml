@@ -1,23 +1,29 @@
-# DELOAD - DAY 1 (Tue) - LIGHT PUSH
+# WK7 TUE - PUSH, DELOAD
 date: 2026-09-29
 
 exercises:
   - name: Weighted Ring Dip
-    notes: "Everything this week RIR 3-4. Half volume, ~60% load."
+    notes: "Deload week. Half volume, ~60% load, RIR 3-4."
     sets:
       - reps: 3
-        load_kg: 17.5
+        load_kg: 20
       - reps: 3
-        load_kg: 17.5
+        load_kg: 20
 
-  - name: Deep Ring Push Up
-    notes: "Easy tempo."
+  - name: Weighted Ring Dip
+    notes: "Backoff set."
     sets:
-      - reps: 10
-      - reps: 10
+      - reps: 5
+        load_kg: 15
 
-  - name: Bar Tricep Extensions
-    notes: "Light, far from failure."
+  - name: Advanced Tuck Front Lever Raise
+    notes: "Secondary. RIR 3, easy."
     sets:
-      - reps: 12
-      - reps: 12
+      - reps: 4
+      - reps: 4
+
+  - name: Archer Australian Chin Up
+    notes: "Tertiary."
+    sets:
+      - reps: 6/side
+      - reps: 6/side
