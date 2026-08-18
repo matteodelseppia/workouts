@@ -15,9 +15,9 @@ exercises:
         load_kg: 20
 
   - name: Weighted Ring Dip
-    notes: "Backoff set."
+    notes: "Backoff set, higher reps."
     sets:
-      - reps: 7
+      - reps: 10
         load_kg: 15
 
   - name: Advanced Tuck Front Lever Raise
@@ -33,3 +33,9 @@ exercises:
       - reps: 15s
       - reps: 15s
       - reps: 15s
+
+  - name: Ring One Arm Push Up
+    notes: "Bonus push volume, added Aug 18."
+    sets:
+      - reps: 6/side
+      - reps: 5/side
