@@ -1,0 +1,36 @@
+date: 2026-08-19
+
+  - name: Ring Weighted Dip
+    sets:
+      - reps: 3
+        load_kg: 20
+      - reps: 3
+        load_kg: 20
+      - reps: 3
+        load_kg: 20
+      - reps: 3
+        load_kg: 20
+      - reps: 3
+        load_kg: 20
+      - reps: 10
+        load_kg: 12.5
+
+  - name: Advanced Tuck Front Lever Raise
+    rir: 1
+    sets:
+      - reps: 3
+      - reps: 3
+      - reps: 3
+
+  - name: Archer Australian Chin Up
+    sets:
+      - reps: 6/side
+      - reps: 6/side
+      - reps: 6/side
+
+
+  - name: Ring One Arm Push Up
+    sets:
+      - reps: 6/side
+      - reps: 5/side
+  
