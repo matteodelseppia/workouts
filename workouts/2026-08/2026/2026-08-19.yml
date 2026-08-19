@@ -1,0 +1,14 @@
+date: 2026-08-18
+
+  - name: Ring Weighted Dip
+    sets:
+      - reps: 3
+        load_kg: 15
+      - reps: 3
+        load_kg: 15
+      - reps: 3
+        load_kg: 15
+      - reps: 6
+        load_kg: 10
+      - reps: 6
+        load_kg: 10
