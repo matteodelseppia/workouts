@@ -1,0 +1,22 @@
+date: 2026-08-20
+
+  - name: Ring Weighted Dip
+    sets:
+      - reps: 4
+        load_kg: 12.5
+      - reps: 4
+        load_kg: 12.5
+      - reps: 4
+        load_kg: 12.5
+      - reps: 4
+        load_kg: 12.5
+      - reps: 10
+        load_kg: 10
+
+  - name: Advanced Tuck Front Lever Raise
+    sets:
+      - reps: 3
+      - reps: 3
+      - reps: 3
+      - reps: 3
+      - reps: 3
