@@ -1,0 +1,44 @@
+date: 2026-08-23
+
+exercises:
+  - name: Ring Weighted Pull Up
+    sets:
+      - reps: 3
+        load_kg: 25
+      - reps: 3
+        load_kg: 25
+      - reps: 3
+        load_kg: 25
+      - reps: 3
+        load_kg: 25
+      - reps: 1
+        load_kg: 30
+      - reps: 1
+        load_kg: 35
+
+  - name: Ring Weighted Dip
+    sets:
+      - reps: 3
+        load_kg: 27
+      - reps: 3
+        load_kg: 27
+      - reps: 3
+        load_kg: 27
+      - reps: 3
+        load_kg: 27
+
+  - name: Ring Push Up
+    sets:
+      - reps: 15
+
+  - name: Archer Australian Chin Up
+    sets:
+      - reps: 6/side
+      - reps: 6/side
+
+  - name: Ring Tricep Extension
+    sets:
+      - reps: failure
+      - reps: failure
+      - reps: failure
+      - reps: failure
